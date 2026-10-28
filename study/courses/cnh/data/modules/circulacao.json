@@ -1,0 +1,610 @@
+{
+  "id": "circulacao",
+  "title": "Circulação, conduta e direção defensiva",
+  "summary": "Terceiro bloco da Portaria SENATRAN 923/2025.",
+  "examImportance": 2,
+  "officialBlock": "Normas de circulação, conduta e direção defensiva",
+  "topics": [
+    {
+      "id": "preferencia",
+      "name": "Preferência e ultrapassagem",
+      "module": "circulacao",
+      "lesson": {
+        "blocks": [
+          "Cruzamento sem sinalização não é convite para o veículo maior ou mais rápido. O art. 29, III, escolhe quem passa.",
+          "Ultrapassagem tem lado, momento e trechos proibidos. O art. 29, § 2º, é outra regra: responsabilidade pela segurança, não preferência de passagem."
+        ],
+        "concepts": [
+          "Fluxos que se cruzam sem sinal: quem vem de rodovia, quem já circula na rotatória, e, nos demais casos, quem vem pela direita do condutor.",
+          "Ultrapassagem pela esquerda, salvo quando o veículo da frente sinaliza que vai entrar à esquerda.",
+          "Proibida em curva ou aclive sem visibilidade, passagem de nível, ponte, viaduto e travessia de pedestres, se não houver sinal permitindo, e nas interseções e proximidades."
+        ],
+        "examples": [
+          "Dois carros chegam juntos a um cruzamento sem placa e sem semáforo. Passa quem vem pela direita.",
+          "Na rotatória sem semáforo, passa quem já está circulando por ela, não quem vai entrar."
+        ],
+        "comparisons": [
+          {
+            "left": "Preferência pela direita",
+            "right": "Responsabilidade do maior",
+            "difference": "A direita decide quem passa no cruzamento sem sinal. O § 2º diz que o maior responde pela segurança do menor; não lhe dá a vez."
+          },
+          {
+            "left": "Ultrapassar pela esquerda",
+            "right": "Transpor faixa",
+            "difference": "Ultrapassagem de veículo em movimento é pela esquerda, com a exceção do art. 29, IX. Transposição de faixa, pelo § 1º, pode ser pela esquerda ou pela direita."
+          }
+        ],
+        "relations": [
+          "O enunciado diz se há sinal. Sem sinal, procure rodovia, rotatória ou direita. Com curva, ponte ou cruzamento, pare na ultrapassagem."
+        ],
+        "rules": [
+          "Antes da manobra, o art. 34 manda verificar se ela cabe sem perigo para quem segue, precede ou cruza.",
+          "Durante a conversão, o art. 38, parágrafo único, manda ceder aos pedestres, ciclistas e aos veículos do sentido contrário."
+        ],
+        "pitfalls": [
+          "Dar a vez a quem está mais rápido.",
+          "Usar o porte do veículo como regra de preferência.",
+          "Ultrapassar no cruzamento porque a faixa da esquerda está livre."
+        ],
+        "memorize": [
+          "Sem sinal: rodovia, rotatória, direita.",
+          "Ultrapassagem pela esquerda.",
+          "Interseção não é lugar de ultrapassar."
+        ],
+        "sources": [
+          {
+            "title": "CTB, arts. 29, 32, 33, 34 e 38",
+            "url": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm"
+          }
+        ]
+      },
+      "flashcards": [
+        {
+          "id": "cnh-card-pref-1",
+          "front": "Cruzamento sem sinal, caso comum",
+          "back": "Tem preferência quem vem pela direita (art. 29, III, c).",
+          "source": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm"
+        },
+        {
+          "id": "cnh-card-pref-2",
+          "front": "Rotatória sem outra sinalização",
+          "back": "Tem preferência quem já circula por ela (art. 29, III, b).",
+          "source": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm"
+        }
+      ],
+      "questions": [
+        {
+          "id": "cnh-circ-pref-01",
+          "domain": "cnh-al",
+          "module": "circulacao",
+          "topic": "preferencia",
+          "question": "Dois veículos aproximam-se de um cruzamento sem agente, semáforo ou placa. Nenhum vem de rodovia nem já está numa rotatória. Quem tem preferência?",
+          "options": [
+            {
+              "text": "O que vem pela direita do condutor.",
+              "explanation": "É o art. 29, III, c, o critério residual quando não há sinal, rodovia nem rotatória."
+            },
+            {
+              "text": "O de maior porte, porque o art. 29, § 2º, lhe dá a passagem.",
+              "explanation": "O § 2º distribui responsabilidade pela segurança: o maior cuida do menor. Não entrega a preferência de passagem."
+            },
+            {
+              "text": "O que estiver em velocidade mais alta.",
+              "explanation": "Velocidade não é critério do inciso III. O art. 44 ainda pede prudência ao chegar no cruzamento."
+            },
+            {
+              "text": "Quem piscar o farol primeiro.",
+              "explanation": "O art. 40, III, limita o lampejo a situações de advertência. Não cria preferência."
+            }
+          ],
+          "correctIndex": 0,
+          "recognitionKey": "Sem sinal, sem rodovia e sem rotatória → direita. Porte e farol não escolhem quem passa.",
+          "difficulty": 1,
+          "source": "CTB, art. 29, III, c",
+          "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+          "lastVerifiedAt": "2026-10-27",
+          "reviewStatus": "verificado",
+          "origin": "treino",
+          "normVersion": "CTB compilado e normas consultadas em 2026-10-27",
+          "examImportance": 2
+        },
+        {
+          "id": "cnh-circ-pref-02",
+          "domain": "cnh-al",
+          "module": "circulacao",
+          "topic": "preferencia",
+          "question": "Um veículo vai entrar numa rotatória sem semáforo. Outro já circula por ela. Quem tem preferência de passagem?",
+          "options": [
+            {
+              "text": "Quem já está circulando pela rotatória.",
+              "explanation": "Art. 29, III, b. Entrar não dá a vez sobre quem já está no anel."
+            },
+            {
+              "text": "Quem vem pela direita, mesmo para entrar.",
+              "explanation": "A direita é o critério dos demais casos. Rotatória tem alínea própria."
+            },
+            {
+              "text": "Quem chega em maior velocidade, para não parar no anel.",
+              "explanation": "Velocidade não é a alínea b. Parar, se preciso, é compatível com ceder a passagem."
+            },
+            {
+              "text": "O veículo de maior porte que se aproxima da entrada.",
+              "explanation": "Porte não define preferência. No § 2º ele responde pela segurança dos menores."
+            }
+          ],
+          "correctIndex": 0,
+          "recognitionKey": "A palavra rotatória no enunciado aciona a alínea b, antes da regra geral da direita.",
+          "difficulty": 2,
+          "source": "CTB, art. 29, III, b",
+          "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+          "lastVerifiedAt": "2026-10-27",
+          "reviewStatus": "verificado",
+          "origin": "treino",
+          "normVersion": "CTB compilado e normas consultadas em 2026-10-27",
+          "examImportance": 2
+        },
+        {
+          "id": "cnh-circ-pref-03",
+          "domain": "cnh-al",
+          "module": "circulacao",
+          "topic": "preferencia",
+          "question": "O condutor quer ultrapassar um veículo em movimento. Pelo art. 29, IX, por qual lado faz a manobra?",
+          "options": [
+            {
+              "text": "Pela esquerda, salvo se o veículo da frente estiver sinalizando que vai entrar à esquerda.",
+              "explanation": "A regra é a esquerda. A exceção do inciso IX é essa sinalização de entrada à esquerda, não a pressa de quem vem atrás."
+            },
+            {
+              "text": "Pela direita, porque as faixas da direita são as rápidas.",
+              "explanation": "O inciso IV destina a direita aos mais lentos e de maior porte, quando não há faixa especial. A esquerda é que serve à ultrapassagem."
+            },
+            {
+              "text": "Por qualquer lado, desde que haja espaço.",
+              "explanation": "Transposição de faixa pode ser pelos dois lados, no § 1º. Ultrapassagem de veículo em movimento não. O enunciado fala em ultrapassar."
+            },
+            {
+              "text": "Pela esquerda apenas em rodovia. Na cidade, pela direita.",
+              "explanation": "O inciso IX não divide cidade e rodovia."
+            }
+          ],
+          "correctIndex": 0,
+          "recognitionKey": "Verbo ultrapassar veículo em movimento → esquerda, com a exceção de quem à frente sinaliza entrada à esquerda.",
+          "difficulty": 2,
+          "source": "CTB, art. 29, IV e IX",
+          "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+          "lastVerifiedAt": "2026-10-27",
+          "reviewStatus": "verificado",
+          "origin": "treino",
+          "normVersion": "CTB compilado e normas consultadas em 2026-10-27",
+          "examImportance": 2
+        },
+        {
+          "id": "cnh-circ-pref-04",
+          "domain": "cnh-al",
+          "module": "circulacao",
+          "topic": "preferencia",
+          "question": "Em via de mão dupla e pista única, o condutor pensa em ultrapassar numa curva sem visibilidade suficiente. Não há sinal permitindo a manobra. O que diz o art. 32?",
+          "options": [
+            {
+              "text": "Não pode ultrapassar nesse trecho.",
+              "explanation": "O art. 32 veda a ultrapassagem em curva e aclive sem visibilidade, além de passagem de nível, ponte, viaduto e travessia de pedestres, salvo sinalização que permita."
+            },
+            {
+              "text": "Pode, se buzinar e acelerar antes da curva.",
+              "explanation": "Buzina do art. 41 não autoriza a manobra proibida. Acelerar não cria visibilidade."
+            },
+            {
+              "text": "Pode pela direita, porque a proibição é só pela esquerda.",
+              "explanation": "A proibição é de ultrapassar, não de um lado só."
+            },
+            {
+              "text": "Pode, porque curva sem visibilidade transfere a preferência a quem está atrás.",
+              "explanation": "Quem está atrás não ganha preferência por não enxergar. A falta de visibilidade é o motivo da proibição."
+            }
+          ],
+          "correctIndex": 0,
+          "recognitionKey": "Curva sem visibilidade e sem placa permitindo → art. 32 → não ultrapassar.",
+          "difficulty": 1,
+          "source": "CTB, art. 32",
+          "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+          "lastVerifiedAt": "2026-10-27",
+          "reviewStatus": "verificado",
+          "origin": "treino",
+          "normVersion": "CTB compilado e normas consultadas em 2026-10-27",
+          "examImportance": 2
+        },
+        {
+          "id": "cnh-circ-pref-05",
+          "domain": "cnh-al",
+          "module": "circulacao",
+          "topic": "preferencia",
+          "question": "O condutor inicia uma conversão à esquerda. Há pedestres na travessia e veículos vindo no sentido contrário. O que o art. 38, parágrafo único, exige durante a manobra?",
+          "options": [
+            {
+              "text": "Ceder passagem aos pedestres, aos ciclistas e aos veículos do sentido contrário.",
+              "explanation": "A mudança de direção não tem prioridade automática sobre esses usuários. O parágrafo único impõe ceder."
+            },
+            {
+              "text": "Seguir, porque quem já começou a conversão trava o cruzamento.",
+              "explanation": "Ter começado não está no artigo como título de preferência. O art. 45 ainda proíbe entrar na interseção se for parar no meio."
+            },
+            {
+              "text": "Ceder só aos veículos. Pedestre espera a conversão terminar.",
+              "explanation": "O parágrafo nomeia pedestres e ciclistas antes dos veículos contrários."
+            },
+            {
+              "text": "Buzinar para os pedestres concluírem a travessia fora da faixa.",
+              "explanation": "O art. 41 limita a buzina a advertência breve para evitar sinistro, não a abrir caminho."
+            }
+          ],
+          "correctIndex": 0,
+          "recognitionKey": "Conversão com pedestre e fluxo contrário → art. 38, parágrafo único → ceder aos três, não só aos carros.",
+          "difficulty": 2,
+          "source": "CTB, art. 38, parágrafo único",
+          "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+          "lastVerifiedAt": "2026-10-27",
+          "reviewStatus": "verificado",
+          "origin": "treino",
+          "normVersion": "CTB compilado e normas consultadas em 2026-10-27",
+          "examImportance": 2
+        }
+      ]
+    },
+    {
+      "id": "velocidade-luzes",
+      "name": "Velocidade da via e luzes",
+      "module": "circulacao",
+      "lesson": {
+        "blocks": [
+          "Onde não há placa, o art. 61, § 1º, ainda tem número. A placa, quando existe, é a máxima daquela via, e pode ser maior ou menor que a tabela.",
+          "Luz baixa, luz alta e pisca-alerta não são intercambiáveis. O art. 40 separa noite, túnel, chuva, via sem iluminação e imobilização."
+        ],
+        "concepts": [
+          "Via urbana sem placa: 80 km/h na de trânsito rápido, 60 na arterial, 40 na coletora, 30 na local.",
+          "Luz baixa à noite e, de dia, em túnel, chuva, neblina ou cerração.",
+          "Luz alta em via não iluminada, exceto ao cruzar com outro veículo ou ao segui-lo.",
+          "Pisca-alerta em imobilização ou emergência, e quando a regulamentação da via exigir."
+        ],
+        "examples": [
+          "Via local sem placa: 30 km/h, não 40. Quarenta é a coletora.",
+          "Chuva de dia: luz baixa acesa, mesmo fora da noite.",
+          "Estrada escura, carro em sentido contrário: baixar o farol alto."
+        ],
+        "comparisons": [
+          {
+            "left": "Via local",
+            "right": "Via coletora",
+            "difference": "Sem placa, 30 km/h e 40 km/h. Arterial é 60. Trânsito rápido urbano é 80."
+          },
+          {
+            "left": "Luz alta",
+            "right": "Pisca-alerta",
+            "difference": "Alta é para via escura, com a exceção de cruzar ou seguir. Pisca-alerta é imobilização, emergência ou ordem da via."
+          }
+        ],
+        "relations": [
+          "O enunciado diz a classe da via e se há placa. Sem placa, use a tabela. Com chuva ou túnel, não espere anoitecer para a luz baixa."
+        ],
+        "rules": [
+          "Placa de velocidade vence a tabela do § 1º, para cima ou para baixo, nos termos do § 2º.",
+          "Motocicleta em qualquer horário usa luz baixa, no § 1º do art. 40, junto com o coletivo em faixa própria."
+        ],
+        "pitfalls": [
+          "Decorar 40 km/h para toda rua sem placa.",
+          "Usar farol alto ao cruzar com outro veículo.",
+          "Ligar o pisca-alerta para justificar estacionamento em local proibido. O artigo não diz isso."
+        ],
+        "memorize": [
+          "30 local, 40 coletora, 60 arterial, 80 trânsito rápido.",
+          "Baixa: noite, túnel e chuva. Alta: via escura, exceto ao cruzar ou seguir."
+        ],
+        "sources": [
+          {
+            "title": "CTB, arts. 40 e 61",
+            "url": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm"
+          }
+        ]
+      },
+      "flashcards": [
+        {
+          "id": "cnh-card-via-1",
+          "front": "Máximas urbanas sem placa",
+          "back": "Trânsito rápido 80, arterial 60, coletora 40, local 30 (art. 61, § 1º, I).",
+          "source": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm"
+        },
+        {
+          "id": "cnh-card-luz-1",
+          "front": "Quando a luz baixa fica acesa",
+          "back": "À noite e, de dia, em túnel, chuva, neblina ou cerração (art. 40, I).",
+          "source": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm"
+        }
+      ],
+      "questions": [
+        {
+          "id": "cnh-circ-vel-01",
+          "domain": "cnh-al",
+          "module": "circulacao",
+          "topic": "velocidade-luzes",
+          "question": "Não há placa de velocidade numa via urbana local. Qual é a máxima do art. 61, § 1º?",
+          "options": [
+            {
+              "text": "30 km/h.",
+              "explanation": "O inciso I, d, fixa trinta quilômetros por hora nas vias locais sem sinalização regulamentadora."
+            },
+            {
+              "text": "40 km/h.",
+              "explanation": "40 é a coletora, alínea c. O enunciado diz via local."
+            },
+            {
+              "text": "60 km/h.",
+              "explanation": "60 é a arterial."
+            },
+            {
+              "text": "80 km/h.",
+              "explanation": "80, na área urbana sem placa, é a via de trânsito rápido, não a local."
+            }
+          ],
+          "correctIndex": 0,
+          "recognitionKey": "Sem placa e o nome da via é local → 30. Coletora 40, arterial 60, trânsito rápido 80.",
+          "difficulty": 1,
+          "source": "CTB, art. 61, § 1º, I, d",
+          "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+          "lastVerifiedAt": "2026-10-27",
+          "reviewStatus": "verificado",
+          "origin": "treino",
+          "normVersion": "CTB compilado e normas consultadas em 2026-10-27",
+          "examImportance": 2
+        },
+        {
+          "id": "cnh-circ-vel-02",
+          "domain": "cnh-al",
+          "module": "circulacao",
+          "topic": "velocidade-luzes",
+          "question": "É dia e o veículo entra num túnel. Não chove. O que o art. 40, I, exige dos faróis?",
+          "options": [
+            {
+              "text": "Luz baixa acesa.",
+              "explanation": "O inciso I manda luz baixa à noite e, mesmo de dia, em túneis e sob chuva, neblina ou cerração. Túnel basta."
+            },
+            {
+              "text": "Luz alta, porque o túnel é escuro.",
+              "explanation": "Via não iluminada pode pedir luz alta, mas ao cruzar ou seguir outro veículo ela sai. O túnel está nomeado na luz baixa, não como autorização permanente de alta."
+            },
+            {
+              "text": "Nenhuma luz, porque ainda é dia.",
+              "explanation": "A alínea b existe para o dia. Dia não dispensa o túnel."
+            },
+            {
+              "text": "Somente o pisca-alerta enquanto estiver no túnel.",
+              "explanation": "Pisca-alerta não substitui a luz baixa de circulação. Ele é para imobilização, emergência ou regulamentação da via."
+            }
+          ],
+          "correctIndex": 0,
+          "recognitionKey": "Túnel no enunciado, mesmo de dia e sem chuva → art. 40, I, b → luz baixa.",
+          "difficulty": 2,
+          "source": "CTB, art. 40, I",
+          "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+          "lastVerifiedAt": "2026-10-27",
+          "reviewStatus": "verificado",
+          "origin": "treino",
+          "normVersion": "CTB compilado e normas consultadas em 2026-10-27",
+          "examImportance": 2
+        },
+        {
+          "id": "cnh-circ-vel-03",
+          "domain": "cnh-al",
+          "module": "circulacao",
+          "topic": "velocidade-luzes",
+          "question": "Em via não iluminada o condutor usa luz alta e percebe outro veículo no sentido contrário. O que faz o art. 40, II?",
+          "options": [
+            {
+              "text": "Não manter a luz alta ao cruzar com o outro veículo.",
+              "explanation": "O inciso II manda luz alta na via não iluminada, exceto ao cruzar ou ao seguir outro veículo."
+            },
+            {
+              "text": "Manter a luz alta para ser visto mais cedo.",
+              "explanation": "Ser visto não autoriza ofuscar quem vem de frente. A exceção está escrita no inciso."
+            },
+            {
+              "text": "Trocar para o pisca-alerta até o cruzamento acabar.",
+              "explanation": "Pisca-alerta não é o substituto da luz baixa nesse cruzamento."
+            },
+            {
+              "text": "Apagar todos os faróis para não incomodar.",
+              "explanation": "A exceção troca a alta, não apaga a iluminação. A luz baixa continua devida à noite, no inciso I."
+            }
+          ],
+          "correctIndex": 0,
+          "recognitionKey": "Via escura mais veículo em sentido contrário → sai a luz alta. Seguir outro veículo produz a mesma exceção.",
+          "difficulty": 2,
+          "source": "CTB, art. 40, II",
+          "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+          "lastVerifiedAt": "2026-10-27",
+          "reviewStatus": "verificado",
+          "origin": "treino",
+          "normVersion": "CTB compilado e normas consultadas em 2026-10-27",
+          "examImportance": 2
+        },
+        {
+          "id": "cnh-circ-vel-04",
+          "domain": "cnh-al",
+          "module": "circulacao",
+          "topic": "velocidade-luzes",
+          "question": "O veículo imobiliza por uma emergência. Em que situação o art. 40, V, manda usar o pisca-alerta?",
+          "options": [
+            {
+              "text": "Em imobilizações ou situações de emergência, e quando a via assim regulamentar.",
+              "explanation": "São as duas hipóteses do inciso V. Não é luz de circulação normal."
+            },
+            {
+              "text": "Sempre que a velocidade estiver abaixo da máxima.",
+              "explanation": "Velocidade baixa não está no inciso. O art. 219 trata de velocidade excessivamente reduzida, que é outra infração."
+            },
+            {
+              "text": "Apenas à noite, em substituição à luz baixa.",
+              "explanation": "O pisca-alerta não substitui a luz baixa da noite. São comandos diferentes."
+            },
+            {
+              "text": "Para avisar que o condutor vai ultrapassar.",
+              "explanation": "Avisar ultrapassagem pode usar a troca breve de luz baixa e alta, no inciso III, ou o indicador de direção. Não o pisca-alerta."
+            }
+          ],
+          "correctIndex": 0,
+          "recognitionKey": "Imobilização ou emergência no enunciado → pisca-alerta. Ultrapassagem e noite usam outros incisos.",
+          "difficulty": 1,
+          "source": "CTB, art. 40, V",
+          "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+          "lastVerifiedAt": "2026-10-27",
+          "reviewStatus": "verificado",
+          "origin": "treino",
+          "normVersion": "CTB compilado e normas consultadas em 2026-10-27",
+          "examImportance": 1
+        }
+      ]
+    },
+    {
+      "id": "defensiva",
+      "name": "Direção defensiva",
+      "module": "circulacao",
+      "lesson": {
+        "blocks": [
+          "A Portaria 923 trata direção defensiva como conduta, não como um slogan. O bloco junta norma, atenção, previsão, decisão, habilidade e autocontrole.",
+          "Pedestre na faixa tem prioridade, com a ressalva do semáforo. Quem já começou a travessia não perde a vez só porque o foco do veículo mudou."
+        ],
+        "concepts": [
+          "Pilares escritos na portaria: conhecimento das normas, atenção, previsão, decisão segura, habilidade e autocontrole.",
+          "Art. 70: pedestre na faixa tem prioridade, exceto onde o semáforo manda outra coisa. Quem não concluiu a travessia segue com preferência quando o sinal muda.",
+          "Art. 29, § 2º: o maior porte cuida do menor, o motorizado cuida do não motorizado, e todos cuidam do pedestre."
+        ],
+        "examples": [
+          "O foco abre para o carro e a pessoa ainda está na faixa. O carro espera. É o parágrafo único do art. 70.",
+          "Cansaço e pressa não são detalhes. A portaria lista fadiga, sonolência, estresse e distração entre os fatores humanos."
+        ],
+        "comparisons": [
+          {
+            "left": "Faixa sem semáforo",
+            "right": "Faixa com semáforo",
+            "difference": "Sem semáforo, a prioridade de quem está na faixa é a regra. Com semáforo, vale o foco, mas quem não terminou a travessia continua tendo preferência."
+          },
+          {
+            "left": "Prever o risco",
+            "right": "Reagir só depois do susto",
+            "difference": "A portaria chama previsão de leitura do ambiente, antes da manobra. Reação tardia não é o pilar."
+          }
+        ],
+        "relations": [
+          "Pessoa na faixa → art. 70. Porte diferente no mesmo espaço → § 2º do art. 29, responsabilidade, não preferência."
+        ],
+        "rules": [
+          "Não confunda o pilar com uma infração. A portaria descreve a conduta. O artigo do CTB é que classifica a omissão, quando existe tipo.",
+          "Celular, discussão e sono aparecem na portaria como fator humano, ao lado do álcool e dos medicamentos."
+        ],
+        "pitfalls": [
+          "Achar que o verde autoriza avançar sobre quem ainda atravessa.",
+          "Ler o § 2º como se o carro grande tivesse preferência sobre a moto ou o pedestre."
+        ],
+        "memorize": [
+          "Faixa: prioridade de quem atravessa. Semáforo não apaga quem já está no meio.",
+          "Seis pilares da portaria: norma, atenção, previsão, decisão, habilidade, autocontrole."
+        ],
+        "sources": [
+          {
+            "title": "CTB, arts. 29, § 2º, e 70",
+            "url": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm"
+          },
+          {
+            "title": "Portaria SENATRAN 923/2025, bloco de direção defensiva",
+            "url": "https://www.gov.br/transportes/pt-br/assuntos/transito/arquivos-senatran/portarias/2025/Portaria9232025.pdf/@@display-file/file"
+          }
+        ]
+      },
+      "flashcards": [
+        {
+          "id": "cnh-card-def-1",
+          "front": "Pedestre que não terminou a faixa quando o sinal muda",
+          "back": "Mantém a preferência (art. 70, parágrafo único).",
+          "source": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm"
+        },
+        {
+          "id": "cnh-card-def-2",
+          "front": "Pilares da direção defensiva na Portaria 923",
+          "back": "Conhecimento das normas, atenção, previsão, decisão segura, habilidade e autocontrole.",
+          "source": "https://www.gov.br/transportes/pt-br/assuntos/transito/arquivos-senatran/portarias/2025/Portaria9232025.pdf/@@display-file/file"
+        }
+      ],
+      "questions": [
+        {
+          "id": "cnh-circ-def-01",
+          "domain": "cnh-al",
+          "module": "circulacao",
+          "topic": "defensiva",
+          "question": "O pedestre começou a atravessar na faixa. O semáforo abre para os veículos antes de ele concluir a travessia. O que faz o art. 70, parágrafo único?",
+          "options": [
+            {
+              "text": "Mantém a preferência do pedestre que não concluiu a travessia.",
+              "explanation": "A mudança do foco não corta a travessia já iniciada. Os veículos esperam."
+            },
+            {
+              "text": "Passa a valer só o verde, e o pedestre volta para a calçada.",
+              "explanation": "Voltar não está no parágrafo. A preferência continua com quem não terminou."
+            },
+            {
+              "text": "O pedestre só tem prioridade se não existir semáforo.",
+              "explanation": "Sem semáforo, o caput já dá prioridade a quem está na faixa. O parágrafo existe justamente para o local com semáforo."
+            },
+            {
+              "text": "A preferência fica com o veículo maior, pelo art. 29, § 2º.",
+              "explanation": "O § 2º aumenta o dever de cuidado de quem é maior. Não tira o pedestre da faixa."
+            }
+          ],
+          "correctIndex": 0,
+          "recognitionKey": "Travessia já começada e o sinal muda → parágrafo único do art. 70 → o pedestre termina.",
+          "difficulty": 2,
+          "source": "CTB, art. 70, parágrafo único",
+          "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+          "lastVerifiedAt": "2026-10-27",
+          "reviewStatus": "verificado",
+          "origin": "treino",
+          "normVersion": "CTB compilado e normas consultadas em 2026-10-27",
+          "examImportance": 2
+        },
+        {
+          "id": "cnh-circ-def-02",
+          "domain": "cnh-al",
+          "module": "circulacao",
+          "topic": "defensiva",
+          "question": "A Portaria SENATRAN 923/2025 lista pilares da direção defensiva aplicados à prática. Qual conjunto está nesse bloco?",
+          "options": [
+            {
+              "text": "Conhecimento das normas, atenção, previsão, decisão segura, habilidade e autocontrole.",
+              "explanation": "São os itens 2.1 a 2.6 do bloco de circulação, conduta e direção defensiva da portaria. Não é uma lista inventada de slogans."
+            },
+            {
+              "text": "Somente velocidade abaixo da máxima e buzina preventiva.",
+              "explanation": "Velocidade segura é outro item do mesmo bloco. Buzina preventiva não é pilar, e o art. 41 restringe a buzina."
+            },
+            {
+              "text": "Preferência do veículo maior e uso contínuo da luz alta.",
+              "explanation": "As duas ideias contrariam regras do CTB já vistas: § 2º do art. 29 e art. 40, II."
+            },
+            {
+              "text": "Decorar o valor em reais de cada multa.",
+              "explanation": "A portaria não transforma a tabela de preços em pilar. O bloco fala de conduta e de leitura do risco."
+            }
+          ],
+          "correctIndex": 0,
+          "recognitionKey": "Se o enunciado pedir o pilar da portaria, não responda com uma infração nem com o preço da multa.",
+          "difficulty": 1,
+          "source": "Portaria SENATRAN nº 923/2025, Anexo I, normas de circulação e direção defensiva, item 2",
+          "sourceUrl": "https://www.gov.br/transportes/pt-br/assuntos/transito/arquivos-senatran/portarias/2025/Portaria9232025.pdf/@@display-file/file",
+          "lastVerifiedAt": "2026-10-27",
+          "reviewStatus": "verificado",
+          "origin": "treino",
+          "normVersion": "CTB compilado e normas consultadas em 2026-10-27",
+          "examImportance": 1
+        }
+      ]
+    }
+  ]
+}

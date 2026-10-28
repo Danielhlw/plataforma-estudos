@@ -1,0 +1,43 @@
+{
+  "norm": "Resolução CONTRAN nº 1.020, de 1º de dezembro de 2025",
+  "verifiedAt": "2026-10-27",
+  "questionCount": 30,
+  "optionsPerQuestion": 4,
+  "passingScore": 20,
+  "durationMinutes": 60,
+  "extendedDurationMinutes": 120,
+  "durationNote": "O art. 33, § 2º, da Resolução CONTRAN 1.020/2025 fixa duração mínima de uma hora, dobrada para dislexia, TDAH ou TEA. O simulado usa 60 ou 120 minutos. A página do DETRAN/AL consultada em 27/10/2026 não publica um teto diferente.",
+  "distribution": {
+    "official": false,
+    "label": "estimativa pedagógica",
+    "note": "A Senatran não publicou a distribuição das 30 questões. Estes números não são peso oficial do exame. Servem para equilibrar um simulado entre os quatro blocos da Portaria SENATRAN 923/2025.",
+    "modules": {
+      "sinalizacao": 5,
+      "infracoes": 12,
+      "circulacao": 9,
+      "meio-ambiente": 4
+    }
+  },
+  "sources": [
+    {
+      "title": "Resolução CONTRAN nº 1.020/2025",
+      "url": "https://www.in.gov.br/web/dou/-/resolucao-contran-n-1.020-de-1-de-dezembro-de-2025-674131330",
+      "consultedAt": "2026-10-27"
+    },
+    {
+      "title": "Portaria SENATRAN nº 923/2025",
+      "url": "https://www.gov.br/transportes/pt-br/assuntos/transito/arquivos-senatran/portarias/2025/Portaria9232025.pdf/@@display-file/file",
+      "consultedAt": "2026-10-27"
+    },
+    {
+      "title": "Código de Trânsito Brasileiro compilado",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+      "consultedAt": "2026-10-27"
+    },
+    {
+      "title": "DETRAN/AL — CNH do Brasil",
+      "url": "https://www.detran.al.gov.br/conteudo/cnh-do-brasil",
+      "consultedAt": "2026-10-27"
+    }
+  ]
+}

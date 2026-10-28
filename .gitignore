@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+data/*.db
+vendor/word-bank/data/
+.streamlit/secrets.toml

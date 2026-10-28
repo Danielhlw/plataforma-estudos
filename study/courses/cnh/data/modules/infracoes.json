@@ -1,0 +1,652 @@
+{
+  "id": "infracoes",
+  "title": "Infrações de trânsito",
+  "summary": "Segundo bloco da Portaria SENATRAN 923/2025: natureza, pontos, penalidades e medidas.",
+  "examImportance": 3,
+  "officialBlock": "Infrações de trânsito",
+  "topics": [
+    {
+      "id": "pontos",
+      "name": "Natureza e pontuação",
+      "module": "infracoes",
+      "lesson": {
+        "blocks": [
+          "O art. 259 fixa os pontos. Grave e gravíssima não têm o mesmo número.",
+          "A suspensão por contagem, no art. 261, muda conforme existam infrações gravíssimas. Quem exerce atividade remunerada ao veículo tem regra própria no § 5º."
+        ],
+        "concepts": [
+          "Gravíssima: 7 pontos. Grave: 5. Média: 4. Leve: 3.",
+          "Em 12 meses: 20 pontos se houver duas ou mais gravíssimas; 30 se houver uma; 40 se não houver gravíssima.",
+          "Condutor em atividade remunerada ao veículo: a suspensão por pontos usa o limite de 40, qualquer que seja a natureza, com curso preventivo facultado aos 30 pontos."
+        ],
+        "examples": [
+          "Duas gravíssimas no prontuário: o limite da alínea a é 20 pontos, não 40.",
+          "Nenhuma gravíssima: o limite da alínea c é 40 pontos."
+        ],
+        "comparisons": [
+          {
+            "left": "Grave, 5 pontos",
+            "right": "Gravíssima, 7 pontos",
+            "difference": "Não são a mesma natureza. O enunciado que diz só «grave» não autoriza contar 7."
+          },
+          {
+            "left": "Limite de 20",
+            "right": "Limite de 40",
+            "difference": "20 quando há duas ou mais gravíssimas. 40 quando não há gravíssima, ou no caso do § 5º da atividade remunerada."
+          }
+        ],
+        "relations": [
+          "Natureza nomeada no enunciado → pontos do art. 259. Quantidade de gravíssimas → alínea do art. 261."
+        ],
+        "rules": [
+          "Não troque 5 e 7. O erro clássico é chamar a grave de 7 pontos.",
+          "Antes de escolher 20, 30 ou 40, conte as gravíssimas que o enunciado informa."
+        ],
+        "pitfalls": [
+          "Aplicar 40 pontos a qualquer condutor, mesmo com duas gravíssimas.",
+          "Aplicar 20 pontos a quem não tem gravíssima.",
+          "Esquecer que a atividade remunerada ao veículo segue o § 5º."
+        ],
+        "memorize": [
+          "7, 5, 4 e 3.",
+          "20, 30 ou 40 conforme as gravíssimas.",
+          "Atividade remunerada: limite de 40 pontos."
+        ],
+        "sources": [
+          {
+            "title": "CTB, arts. 259 e 261",
+            "url": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm"
+          }
+        ]
+      },
+      "flashcards": [
+        {
+          "id": "cnh-card-pontos-1",
+          "front": "Pontos: gravíssima, grave, média e leve",
+          "back": "7, 5, 4 e 3 (CTB, art. 259).",
+          "source": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm"
+        },
+        {
+          "id": "cnh-card-pontos-2",
+          "front": "Suspensão por pontos em 12 meses",
+          "back": "20 com duas ou mais gravíssimas; 30 com uma; 40 sem gravíssima (art. 261, I).",
+          "source": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm"
+        }
+      ],
+      "questions": [
+        {
+          "id": "cnh-inf-pontos-01",
+          "domain": "cnh-al",
+          "module": "infracoes",
+          "topic": "pontos",
+          "question": "Quantos pontos o art. 259 atribui, respectivamente, às infrações gravíssima, grave, média e leve?",
+          "options": [
+            {
+              "text": "7, 5, 4 e 3.",
+              "explanation": "É a escala do art. 259: gravíssima sete, grave cinco, média quatro, leve três."
+            },
+            {
+              "text": "7, 7, 5 e 4.",
+              "explanation": "Grave não tem sete pontos. Sete é só a gravíssima. Essa alternativa cola as duas naturezas mais pesadas."
+            },
+            {
+              "text": "5, 4, 3 e 1.",
+              "explanation": "A gravíssima fica de fora. Cinco já é a grave. Não existe, nesse artigo, infração de um ponto."
+            },
+            {
+              "text": "10, 7, 5 e 3.",
+              "explanation": "Dez não é pontuação do art. 259. O fator dez aparece em multa do art. 165, que é outra conta."
+            }
+          ],
+          "correctIndex": 0,
+          "recognitionKey": "A pergunta nomeia as quatro naturezas na ordem do art. 259 → 7, 5, 4, 3. Não misturar com o multiplicador da multa.",
+          "difficulty": 1,
+          "source": "CTB, art. 259",
+          "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+          "lastVerifiedAt": "2026-10-27",
+          "reviewStatus": "verificado",
+          "origin": "treino",
+          "normVersion": "CTB compilado e normas consultadas em 2026-10-27",
+          "examImportance": 3
+        },
+        {
+          "id": "cnh-inf-pontos-02",
+          "domain": "cnh-al",
+          "module": "infracoes",
+          "topic": "pontos",
+          "question": "Um condutor que não exerce atividade remunerada ao veículo soma, em 12 meses, pontos de duas infrações gravíssimas. Qual limite da suspensão por contagem se aplica?",
+          "options": [
+            {
+              "text": "20 pontos.",
+              "explanation": "Art. 261, I, a: 20 pontos quando constem duas ou mais infrações gravíssimas."
+            },
+            {
+              "text": "40 pontos, porque esse é o teto único do Código.",
+              "explanation": "40 é a alínea c, para quem não tem gravíssima, e também o § 5º da atividade remunerada. O enunciado tem duas gravíssimas e não fala em atividade remunerada."
+            },
+            {
+              "text": "30 pontos, porque há gravíssima.",
+              "explanation": "30 é a alínea b, quando consta uma gravíssima. Duas ou mais caem na alínea a."
+            },
+            {
+              "text": "Não há suspensão por pontos se a infração já é gravíssima.",
+              "explanation": "A natureza gravíssima não apaga a contagem do inciso I. Há ainda suspensão específica em algumas infrações, que é outro inciso."
+            }
+          ],
+          "correctIndex": 0,
+          "recognitionKey": "Duas gravíssimas e sem atividade remunerada → alínea a → 20 pontos. Uma seria 30. Nenhuma seria 40.",
+          "difficulty": 2,
+          "source": "CTB, art. 261, I, a",
+          "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+          "lastVerifiedAt": "2026-10-27",
+          "reviewStatus": "verificado",
+          "origin": "treino",
+          "normVersion": "CTB compilado e normas consultadas em 2026-10-27",
+          "examImportance": 3
+        },
+        {
+          "id": "cnh-inf-pontos-03",
+          "domain": "cnh-al",
+          "module": "infracoes",
+          "topic": "pontos",
+          "question": "O condutor exerce atividade remunerada ao veículo. Pelo art. 261, § 5º, a suspensão por pontos é imposta quando ele atinge qual limite?",
+          "options": [
+            {
+              "text": "40 pontos, independentemente da natureza das infrações.",
+              "explanation": "O § 5º usa o limite da alínea c, 40 pontos, qualquer que seja a natureza, e faculta o curso preventivo ao chegar a 30."
+            },
+            {
+              "text": "20 pontos, mesmo sem gravíssima, por ser motorista profissional.",
+              "explanation": "20 não é a regra do § 5º. Profissional remunerado não é automaticamente o limite mais baixo."
+            },
+            {
+              "text": "30 pontos, como limite único de suspensão.",
+              "explanation": "30 pontos, nesse parágrafo, é o momento em que o curso preventivo é facultado, não o gatilho da suspensão."
+            },
+            {
+              "text": "7 pontos, correspondentes a uma gravíssima.",
+              "explanation": "7 é a pontuação de uma infração, não o limite de suspensão do § 5º."
+            }
+          ],
+          "correctIndex": 0,
+          "recognitionKey": "Enunciado diz atividade remunerada ao veículo → § 5º → suspensão aos 40. Trinta é o curso preventivo facultativo.",
+          "difficulty": 2,
+          "source": "CTB, art. 261, § 5º",
+          "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+          "lastVerifiedAt": "2026-10-27",
+          "reviewStatus": "verificado",
+          "origin": "treino",
+          "normVersion": "CTB compilado e normas consultadas em 2026-10-27",
+          "examImportance": 3
+        },
+        {
+          "id": "cnh-inf-pontos-04",
+          "domain": "cnh-al",
+          "module": "infracoes",
+          "topic": "pontos",
+          "question": "No período de 12 meses há exatamente uma infração gravíssima na pontuação de quem não exerce atividade remunerada ao veículo. Qual é o limite de pontos para a suspensão?",
+          "options": [
+            {
+              "text": "30 pontos.",
+              "explanation": "Art. 261, I, b: 30 pontos quando consta uma infração gravíssima."
+            },
+            {
+              "text": "20 pontos.",
+              "explanation": "20 exige duas ou mais gravíssimas. Aqui há uma só."
+            },
+            {
+              "text": "40 pontos.",
+              "explanation": "40 é o caso sem nenhuma gravíssima, ou o § 5º. O enunciado informa uma gravíssima e afasta a atividade remunerada."
+            },
+            {
+              "text": "5 pontos, que é o valor de uma infração grave.",
+              "explanation": "O limite não é a pontuação de uma natureza. Cinco pontos nem esgotam uma gravíssima, que vale sete."
+            }
+          ],
+          "correctIndex": 0,
+          "recognitionKey": "Uma gravíssima, condutor não remunerado → alínea b → 30. Não saltar para 20 nem para 40.",
+          "difficulty": 2,
+          "source": "CTB, art. 261, I, b",
+          "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+          "lastVerifiedAt": "2026-10-27",
+          "reviewStatus": "verificado",
+          "origin": "treino",
+          "normVersion": "CTB compilado e normas consultadas em 2026-10-27",
+          "examImportance": 3
+        }
+      ]
+    },
+    {
+      "id": "medidas",
+      "name": "Penalidade e medida administrativa",
+      "module": "infracoes",
+      "lesson": {
+        "blocks": [
+          "Penalidade e medida administrativa andam juntas com frequência, mas não são a mesma coisa.",
+          "O art. 256 lista penalidades. O art. 269 lista medidas. O § 2º do art. 269 diz que a medida não substitui a penalidade."
+        ],
+        "concepts": [
+          "Penalidades do art. 256 incluem advertência por escrito, multa, suspensão do direito de dirigir, cassação da CNH, cassação da Permissão para Dirigir e frequência obrigatória em curso de reciclagem.",
+          "Medidas do art. 269 incluem retenção e remoção do veículo, recolhimento dos documentos de habilitação e de registro, transbordo do excesso de carga e teste de alcoolemia."
+        ],
+        "examples": [
+          "Recolher a CNH no ato é medida administrativa. Suspender o direito de dirigir é penalidade.",
+          "Reter o veículo não apaga a multa prevista para a infração."
+        ],
+        "comparisons": [
+          {
+            "left": "Multa",
+            "right": "Remoção do veículo",
+            "difference": "Multa está no art. 256. Remoção está no art. 269."
+          },
+          {
+            "left": "Suspensão do direito de dirigir",
+            "right": "Recolhimento da CNH",
+            "difference": "Suspensão é penalidade. Recolher o documento é medida, de caráter complementar."
+          }
+        ],
+        "relations": [
+          "O enunciado pergunta se a consequência é punição ou providência imediata → art. 256 ou art. 269."
+        ],
+        "rules": [
+          "Se a alternativa chama remoção ou retenção de penalidade, ela troca os artigos.",
+          "Medida complementar não elide a penalidade."
+        ],
+        "pitfalls": [
+          "Achar que, recolhido o veículo, não cabe mais multa.",
+          "Listar advertência por escrito como medida do art. 269."
+        ],
+        "memorize": [
+          "256 pune. 269 adota providência complementar.",
+          "A medida não substitui a penalidade."
+        ],
+        "sources": [
+          {
+            "title": "CTB, arts. 256, 259, 261 e 269",
+            "url": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm"
+          }
+        ]
+      },
+      "flashcards": [
+        {
+          "id": "cnh-card-medida-1",
+          "front": "Remoção do veículo é penalidade ou medida?",
+          "back": "Medida administrativa, art. 269, II. Não substitui a penalidade.",
+          "source": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm"
+        },
+        {
+          "id": "cnh-card-medida-2",
+          "front": "A medida administrativa apaga a multa?",
+          "back": "Não. Art. 269, § 2º: a medida não elide a penalidade e tem caráter complementar.",
+          "source": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm"
+        }
+      ],
+      "questions": [
+        {
+          "id": "cnh-inf-medida-01",
+          "domain": "cnh-al",
+          "module": "infracoes",
+          "topic": "medidas",
+          "question": "A autoridade remove o veículo do local. Essa remoção, no CTB, é o quê?",
+          "options": [
+            {
+              "text": "Medida administrativa, que não substitui a penalidade da infração.",
+              "explanation": "Remoção está no art. 269, II. O § 2º diz que as medidas não elidem as penalidades e são complementares."
+            },
+            {
+              "text": "Penalidade principal, no lugar da multa.",
+              "explanation": "Multa e as outras punições estão no art. 256. Remoção não é uma delas, e não ocupa o lugar da multa."
+            },
+            {
+              "text": "Crime de trânsito, automaticamente.",
+              "explanation": "Remover o veículo é providência administrativa. Crime depende de tipo penal, que o enunciado não descreve."
+            },
+            {
+              "text": "Advertência por escrito.",
+              "explanation": "Advertência é penalidade do art. 256, I. Não descreve a retirada do veículo."
+            }
+          ],
+          "correctIndex": 0,
+          "recognitionKey": "O verbo do enunciado é remover o veículo → art. 269 → medida complementar, não substituto da multa.",
+          "difficulty": 1,
+          "source": "CTB, art. 269, II e § 2º",
+          "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+          "lastVerifiedAt": "2026-10-27",
+          "reviewStatus": "verificado",
+          "origin": "treino",
+          "normVersion": "CTB compilado e normas consultadas em 2026-10-27",
+          "examImportance": 3
+        },
+        {
+          "id": "cnh-inf-medida-02",
+          "domain": "cnh-al",
+          "module": "infracoes",
+          "topic": "medidas",
+          "question": "Qual destes efeitos está listado como penalidade no art. 256, e não como medida do art. 269?",
+          "options": [
+            {
+              "text": "Suspensão do direito de dirigir.",
+              "explanation": "É penalidade, art. 256, III. Recolher a CNH, que às vezes ocorre junto, é outra coisa: medida do art. 269, III."
+            },
+            {
+              "text": "Retenção do veículo.",
+              "explanation": "Retenção é medida, art. 269, I."
+            },
+            {
+              "text": "Transbordo do excesso de carga.",
+              "explanation": "Transbordo é medida, art. 269, VIII."
+            },
+            {
+              "text": "Realização de teste de alcoolemia.",
+              "explanation": "O teste está no art. 269, IX, como medida administrativa."
+            }
+          ],
+          "correctIndex": 0,
+          "recognitionKey": "Separe punição de providência. Suspensão pune. Reter, transbordar e testar são medidas.",
+          "difficulty": 2,
+          "source": "CTB, arts. 256 e 269",
+          "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+          "lastVerifiedAt": "2026-10-27",
+          "reviewStatus": "verificado",
+          "origin": "treino",
+          "normVersion": "CTB compilado e normas consultadas em 2026-10-27",
+          "examImportance": 3
+        },
+        {
+          "id": "cnh-inf-medida-03",
+          "domain": "cnh-al",
+          "module": "infracoes",
+          "topic": "medidas",
+          "question": "O veículo foi retido. O condutor afirma que, por isso, a multa da infração não pode mais ser aplicada. O que diz o art. 269, § 2º?",
+          "options": [
+            {
+              "text": "A medida não elide a penalidade e tem caráter complementar.",
+              "explanation": "Retenção não apaga multa, suspensão nem outra penalidade prevista no artigo da infração."
+            },
+            {
+              "text": "A retenção substitui todas as penalidades do artigo.",
+              "explanation": "O parágrafo diz o contrário: não elide."
+            },
+            {
+              "text": "A multa só cabe se não houver medida administrativa possível.",
+              "explanation": "As duas podem coexistir. A medida não é plano B da multa."
+            },
+            {
+              "text": "A retenção converte a infração em advertência por escrito.",
+              "explanation": "Advertência é penalidade específica, não o efeito automático da retenção."
+            }
+          ],
+          "correctIndex": 0,
+          "recognitionKey": "Retenção já feita e alguém conclui que a multa morreu → § 2º do art. 269 → a medida é complementar.",
+          "difficulty": 1,
+          "source": "CTB, art. 269, § 2º",
+          "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+          "lastVerifiedAt": "2026-10-27",
+          "reviewStatus": "verificado",
+          "origin": "treino",
+          "normVersion": "CTB compilado e normas consultadas em 2026-10-27",
+          "examImportance": 2
+        }
+      ]
+    },
+    {
+      "id": "condutas",
+      "name": "Condutas frequentes no enunciado",
+      "module": "infracoes",
+      "lesson": {
+        "blocks": [
+          "Estas condutas estão nomeadas na Portaria 923 e têm artigo próprio no CTB. O enunciado quase sempre entrega o verbo: segurar o telefone, exceder um percentual, recusar o teste, não ceder a faixa.",
+          "Não use o valor em reais da multa. Ele é atualizado fora do artigo e não é necessário para classificar a natureza."
+        ],
+        "concepts": [
+          "Velocidade acima da máxima: até 20%, média; mais de 20% até 50%, grave; mais de 50%, gravíssima, com multa em três vezes e suspensão (art. 218).",
+          "Segurar ou manusear o celular é o parágrafo único do art. 252: a hipótese do inciso V passa a gravíssima. Fone de ouvido ligado a aparelho sonoro ou celular, no inciso VI, é infração média.",
+          "Álcool ou substância psicoativa, art. 165: gravíssima, multa dez vezes e suspensão por 12 meses. Recusar o teste do art. 277 é o art. 165-A, com a mesma estrutura de penalidade.",
+          "Avançar o sinal vermelho ou a parada obrigatória é gravíssima, art. 208, com a exceção do art. 44-A onde houver sinal que permita a conversão à direita."
+        ],
+        "examples": [
+          "Limite de 60 km/h e o veículo a 70: o excesso é de cerca de 16%, dentro de até 20%. Natureza média.",
+          "Limite de 40 e o veículo a 70: o excesso passa de 50%. Natureza gravíssima, com suspensão.",
+          "Mão no telefone: parágrafo único do art. 252. Fone no ouvido: inciso VI, média."
+        ],
+        "comparisons": [
+          {
+            "left": "Fone no ouvido",
+            "right": "Segurar o celular",
+            "difference": "Inciso VI é média. O parágrafo único torna gravíssima a conduta de segurar ou manusear o telefone."
+          },
+          {
+            "left": "Dirigir sob influência",
+            "right": "Recusar o teste",
+            "difference": "Art. 165 e art. 165-A são tipos diferentes, ambos gravíssimos, com multa de dez vezes e suspensão de 12 meses."
+          }
+        ],
+        "relations": [
+          "Percentual acima do limite → faixa do art. 218. O que a mão faz com o telefone → inciso VI ou parágrafo único."
+        ],
+        "rules": [
+          "Calcule o excesso em relação à máxima da via, não uma velocidade solta.",
+          "Até 20% inclui o valor exato de 20%. Mais de 20% já é a faixa grave.",
+          "Mais de 50% não é só multa mais cara: o inciso III acrescenta suspensão."
+        ],
+        "pitfalls": [
+          "Tratar 20% exatos como grave. A grave começa acima de 20%.",
+          "Chamar o fone de ouvido de gravíssima só porque envolve telefone.",
+          "Esquecer a exceção do art. 44-A no sinal vermelho, quando o enunciado diz que existe a sinalização permitindo a conversão à direita."
+        ],
+        "memorize": [
+          "218: até 20% média; acima de 20% até 50% grave; acima de 50% gravíssima com suspensão.",
+          "Celular na mão: gravíssima. Fone: média.",
+          "165 e 165-A: gravíssima, multa ×10, suspensão de 12 meses."
+        ],
+        "sources": [
+          {
+            "title": "CTB, arts. 165, 165-A, 208, 218 e 252",
+            "url": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm"
+          },
+          {
+            "title": "Portaria 923/2025, infrações mais cometidas",
+            "url": "https://www.gov.br/transportes/pt-br/assuntos/transito/arquivos-senatran/portarias/2025/Portaria9232025.pdf/@@display-file/file"
+          }
+        ]
+      },
+      "flashcards": [
+        {
+          "id": "cnh-card-vel-1",
+          "front": "Excesso de velocidade até 20%",
+          "back": "Infração média (art. 218, I).",
+          "source": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm"
+        },
+        {
+          "id": "cnh-card-vel-2",
+          "front": "Excesso acima de 50%",
+          "back": "Gravíssima, multa três vezes e suspensão (art. 218, III).",
+          "source": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm"
+        },
+        {
+          "id": "cnh-card-cel",
+          "front": "Segurar o celular e usar fone",
+          "back": "Segurar ou manusear: gravíssima (art. 252, parágrafo único). Fone conectado: média (inciso VI).",
+          "source": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm"
+        }
+      ],
+      "questions": [
+        {
+          "id": "cnh-inf-conduta-01",
+          "domain": "cnh-al",
+          "module": "infracoes",
+          "topic": "condutas",
+          "question": "A máxima da via é 50 km/h. O veículo foi medido a 60 km/h, exatamente 20% acima. Qual é a infração do art. 218?",
+          "options": [
+            {
+              "text": "Média, porque o excesso é de até 20%.",
+              "explanation": "O inciso I alcança o excesso de até 20%. Vinte por cento ainda está nessa faixa, não na grave."
+            },
+            {
+              "text": "Grave, porque 20% já é excesso relevante.",
+              "explanation": "A grave é mais de 20% até 50%. O percentual exato de 20% não entra nela."
+            },
+            {
+              "text": "Gravíssima, com suspensão, porque passou de 50 km/h.",
+              "explanation": "Passar do número da placa não escolhe a natureza. A natureza sai do percentual. Suspensão está no inciso III, acima de 50% de excesso."
+            },
+            {
+              "text": "Leve, porque o art. 259 reserva 3 pontos a excessos pequenos.",
+              "explanation": "O art. 218, I, classifica essa faixa como média, não como leve. O art. 259 só converte a natureza em pontos."
+            }
+          ],
+          "correctIndex": 0,
+          "recognitionKey": "Excesso de 20% cravados → «até 20%» → média. Grave só depois que passa de 20%.",
+          "difficulty": 2,
+          "source": "CTB, art. 218, I",
+          "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+          "lastVerifiedAt": "2026-10-27",
+          "reviewStatus": "verificado",
+          "origin": "treino",
+          "normVersion": "CTB compilado e normas consultadas em 2026-10-27",
+          "examImportance": 3
+        },
+        {
+          "id": "cnh-inf-conduta-02",
+          "domain": "cnh-al",
+          "module": "infracoes",
+          "topic": "condutas",
+          "question": "A máxima é 80 km/h e o veículo foi medido a 100 km/h. O excesso é de 25%. Como o art. 218 classifica?",
+          "options": [
+            {
+              "text": "Grave: mais de 20% e até 50%.",
+              "explanation": "25% está na faixa do inciso II. Não chega ao inciso III e já passou do inciso I."
+            },
+            {
+              "text": "Média, porque não dobrou a velocidade.",
+              "explanation": "Dobrar não é o critério. O corte da média é 20%, e 25% está acima dele."
+            },
+            {
+              "text": "Gravíssima com suspensão.",
+              "explanation": "Suspensão do inciso III exige excesso de mais de 50%. 25% não chega lá."
+            },
+            {
+              "text": "Não há infração se a via for arterial, porque 80 km/h é um limite urbano comum.",
+              "explanation": "O limite considerado é o da via, 80. O tipo da via não apaga o art. 218 quando a máxima foi excedida."
+            }
+          ],
+          "correctIndex": 0,
+          "recognitionKey": "Calcule (medida − máxima) / máxima. 20 km/h sobre 80 é 25% → entre 20% e 50% → grave.",
+          "difficulty": 2,
+          "source": "CTB, art. 218, II",
+          "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+          "lastVerifiedAt": "2026-10-27",
+          "reviewStatus": "verificado",
+          "origin": "treino",
+          "normVersion": "CTB compilado e normas consultadas em 2026-10-27",
+          "examImportance": 3
+        },
+        {
+          "id": "cnh-inf-conduta-03",
+          "domain": "cnh-al",
+          "module": "infracoes",
+          "topic": "condutas",
+          "question": "A máxima é 40 km/h e o veículo segue a 70 km/h. Além da natureza gravíssima, que penalidade específica o art. 218, III, acrescenta?",
+          "options": [
+            {
+              "text": "Multa em três vezes e suspensão do direito de dirigir.",
+              "explanation": "70 é 75% acima de 40, logo mais de 50%. O inciso III, na redação da Lei 14.071/2020, prevê multa tríplice e suspensão."
+            },
+            {
+              "text": "Apenas multa simples, porque suspensão só existe para álcool.",
+              "explanation": "Álcool tem suspensão própria. O inciso III também prevê suspensão para esse excesso de velocidade."
+            },
+            {
+              "text": "Advertência por escrito, por ser o primeiro excesso do mês.",
+              "explanation": "O artigo não troca essa faixa por advertência. A penalidade escrita no inciso III é outra."
+            },
+            {
+              "text": "Somente remoção do veículo.",
+              "explanation": "Remoção é medida administrativa genérica, não a penalidade que o inciso III escreve."
+            }
+          ],
+          "correctIndex": 0,
+          "recognitionKey": "Excesso maior que 50% → inciso III → gravíssima, multa ×3 e suspensão. Não parar na palavra gravíssima.",
+          "difficulty": 3,
+          "source": "CTB, art. 218, III",
+          "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+          "lastVerifiedAt": "2026-10-27",
+          "reviewStatus": "verificado",
+          "origin": "treino",
+          "normVersion": "CTB compilado e normas consultadas em 2026-10-27",
+          "examImportance": 3
+        },
+        {
+          "id": "cnh-inf-conduta-04",
+          "domain": "cnh-al",
+          "module": "infracoes",
+          "topic": "condutas",
+          "question": "O condutor dirige segurando e manuseando o telefone celular. Como o art. 252 trata essa conduta?",
+          "options": [
+            {
+              "text": "Infração gravíssima, pelo parágrafo único.",
+              "explanation": "O parágrafo único diz que a hipótese do inciso V é gravíssima quando o condutor segura ou manuseia o telefone."
+            },
+            {
+              "text": "Infração média, a mesma do fone de ouvido.",
+              "explanation": "O inciso VI, média, é usar fone conectado a aparelho sonoro ou de telefone. Segurar o aparelho é o parágrafo único."
+            },
+            {
+              "text": "Infração leve, se o veículo estiver devagar.",
+              "explanation": "A velocidade não reclassifica o parágrafo único."
+            },
+            {
+              "text": "Não há infração se a chamada for no viva-voz e o aparelho continuar na mão.",
+              "explanation": "O tipo é segurar ou manusear. O enunciado diz que o telefone está na mão. Viva-voz não aparece como exceção nesse parágrafo."
+            }
+          ],
+          "correctIndex": 0,
+          "recognitionKey": "Mão no telefone → parágrafo único do art. 252 → gravíssima. Fone no ouvido seria o inciso VI, média.",
+          "difficulty": 2,
+          "source": "CTB, art. 252, parágrafo único",
+          "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+          "lastVerifiedAt": "2026-10-27",
+          "reviewStatus": "verificado",
+          "origin": "treino",
+          "normVersion": "CTB compilado e normas consultadas em 2026-10-27",
+          "examImportance": 3
+        },
+        {
+          "id": "cnh-inf-conduta-05",
+          "domain": "cnh-al",
+          "module": "infracoes",
+          "topic": "condutas",
+          "question": "Qual é a penalidade do art. 165 para dirigir sob a influência de álcool ou de outra substância psicoativa que determine dependência?",
+          "options": [
+            {
+              "text": "Multa de dez vezes e suspensão do direito de dirigir por 12 meses.",
+              "explanation": "Essa é a redação da Lei 12.760/2012 no caput. A infração é gravíssima. A reincidência em 12 meses dobra a multa, no parágrafo único."
+            },
+            {
+              "text": "Multa simples e 7 pontos, sem suspensão.",
+              "explanation": "Sete pontos seria só a conta genérica da gravíssima. O art. 165 escreve suspensão de 12 meses e o fator dez. O art. 259, § 4º, III, ainda exclui da pontuação ordinária as infrações punidas de forma específica com suspensão."
+            },
+            {
+              "text": "Advertência por escrito na primeira ocorrência.",
+              "explanation": "O artigo não oferece advertência no lugar da multa de dez vezes."
+            },
+            {
+              "text": "Apenas retenção do veículo, sem penalidade.",
+              "explanation": "Há medida administrativa de recolhimento do documento e retenção do veículo, mas ela não substitui a penalidade escrita no caput."
+            }
+          ],
+          "correctIndex": 0,
+          "recognitionKey": "Influência de álcool no enunciado → art. 165, não o 165-A da recusa → multa ×10 e suspensão de 12 meses.",
+          "difficulty": 2,
+          "source": "CTB, art. 165",
+          "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+          "lastVerifiedAt": "2026-10-27",
+          "reviewStatus": "verificado",
+          "origin": "treino",
+          "normVersion": "CTB compilado e normas consultadas em 2026-10-27",
+          "examImportance": 3
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+[submodule "vendor/word-bank"]
+	path = vendor/word-bank
+	url = https://github.com/Danielhlw/word-bank.git
+	branch = master

@@ -1,0 +1,433 @@
+{
+  "id": "sinalizacao",
+  "title": "Sinalização viária",
+  "summary": "Primeiro bloco do curso teórico na Portaria SENATRAN 923/2025.",
+  "examImportance": 2,
+  "officialBlock": "Sinalização viária de trânsito",
+  "topics": [
+    {
+      "id": "hierarquia",
+      "name": "Hierarquia da sinalização",
+      "module": "sinalizacao",
+      "lesson": {
+        "blocks": [
+          "Quando dois sinais parecem dizer coisas diferentes, a ordem legal decide qual deles manda.",
+          "O Código não trata placa, semáforo e agente como equivalentes."
+        ],
+        "concepts": [
+          "Art. 89 do CTB: prevalece, nesta ordem, a ordem do agente, a indicação do semáforo e, depois, os demais sinais sobre as outras normas de trânsito."
+        ],
+        "examples": [
+          "O semáforo está verde e o agente está de frente para o fluxo, com o braço levantado determinando parada. Vale a ordem do agente.",
+          "Não há agente. O semáforo está vermelho e uma placa de indicação parece liberar o caminho. Vale o semáforo."
+        ],
+        "comparisons": [
+          {
+            "left": "Ordem do agente",
+            "right": "Semáforo e placas",
+            "difference": "A ordem do agente prevalece sobre os outros sinais."
+          },
+          {
+            "left": "Semáforo",
+            "right": "Placas e marcas",
+            "difference": "Sem agente, o semáforo prevalece sobre os demais sinais."
+          }
+        ],
+        "relations": [
+          "Conflito no enunciado → identificar quem está presente → aplicar a ordem do art. 89."
+        ],
+        "rules": [
+          "Se o enunciado cita um agente dando uma ordem, essa ordem vem primeiro.",
+          "Se não há agente e há semáforo, o semáforo vem antes da placa.",
+          "Placa e marca prevalecem sobre uma regra genérica de circulação quando o art. 89, III, é o ponto da questão."
+        ],
+        "pitfalls": [
+          "Achar que a placa, por ser permanente, vence o semáforo.",
+          "Tratar o gesto do agente como um simples conselho."
+        ],
+        "memorize": [
+          "Agente, depois semáforo, depois os demais sinais."
+        ],
+        "sources": [
+          {
+            "title": "CTB, art. 89",
+            "url": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm"
+          },
+          {
+            "title": "Portaria SENATRAN 923/2025, Anexo I, hierarquia da sinalização",
+            "url": "https://www.gov.br/transportes/pt-br/assuntos/transito/arquivos-senatran/portarias/2025/Portaria9232025.pdf/@@display-file/file"
+          }
+        ]
+      },
+      "flashcards": [
+        {
+          "id": "cnh-card-hierarquia-1",
+          "front": "Quem prevalece: agente ou semáforo?",
+          "back": "A ordem do agente de trânsito prevalece sobre o semáforo e os outros sinais (CTB, art. 89, I).",
+          "source": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm"
+        },
+        {
+          "id": "cnh-card-hierarquia-2",
+          "front": "Sem agente, quem prevalece: semáforo ou placa?",
+          "back": "O semáforo prevalece sobre os demais sinais (CTB, art. 89, II).",
+          "source": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm"
+        }
+      ],
+      "questions": [
+        {
+          "id": "cnh-sinal-hierarquia-01",
+          "domain": "cnh-al",
+          "module": "sinalizacao",
+          "topic": "hierarquia",
+          "question": "Num cruzamento, o semáforo está verde para você e o agente de trânsito, de frente para o seu fluxo, determina a parada. O que prevalece?",
+          "options": [
+            {
+              "text": "A ordem do agente de trânsito.",
+              "explanation": "O art. 89, I, do CTB põe as ordens do agente acima das normas de circulação e dos outros sinais. O verde do semáforo não anula essa ordem."
+            },
+            {
+              "text": "O semáforo verde, porque é um sinal luminoso automático.",
+              "explanation": "O semáforo prevalece sobre placas e marcas, não sobre a ordem do agente. O enunciado traz os dois, então o critério é o inciso I."
+            },
+            {
+              "text": "A placa existente no local, por ser sinalização permanente.",
+              "explanation": "Placa está abaixo do agente e do semáforo na ordem do art. 89. Permanência física não muda a hierarquia."
+            },
+            {
+              "text": "A regra geral de que o verde autoriza a passagem, mesmo contra o agente.",
+              "explanation": "A regra geral cede quando há ordem do agente. Seguir só pelo verde ignora o sinal que o Código coloca em primeiro lugar."
+            }
+          ],
+          "correctIndex": 0,
+          "recognitionKey": "Agente dando ordem e semáforo ao mesmo tempo → prevalece o agente → art. 89, I.",
+          "difficulty": 1,
+          "source": "CTB, art. 89, I",
+          "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+          "lastVerifiedAt": "2026-10-27",
+          "reviewStatus": "verificado",
+          "origin": "treino",
+          "normVersion": "CTB compilado e normas consultadas em 2026-10-27",
+          "examImportance": 2
+        },
+        {
+          "id": "cnh-sinal-hierarquia-02",
+          "domain": "cnh-al",
+          "module": "sinalizacao",
+          "topic": "hierarquia",
+          "question": "Não há agente no local. O semáforo está vermelho e uma placa de indicação aponta o caminho à frente. O que o condutor deve obedecer primeiro?",
+          "options": [
+            {
+              "text": "O semáforo vermelho.",
+              "explanation": "Sem ordem de agente, o art. 89, II, faz a indicação do semáforo prevalecer sobre os demais sinais."
+            },
+            {
+              "text": "A placa de indicação, porque informa o destino.",
+              "explanation": "Placa de indicação orienta. Não vence o semáforo. O enunciado não tem agente, então o conflito é semáforo contra placa."
+            },
+            {
+              "text": "Os dois ao mesmo tempo: seguir a placa e atravessar no vermelho.",
+              "explanation": "Obedecer aos dois neste caso é impossível. A hierarquia existe justamente para o conflito."
+            },
+            {
+              "text": "A preferência de quem vem pela direita, porque o cruzamento fica sem regra.",
+              "explanation": "O cruzamento não está sem sinal. Há semáforo. A regra da direita do art. 29, III, c, é para fluxo não sinalizado."
+            }
+          ],
+          "correctIndex": 0,
+          "recognitionKey": "Sem agente, semáforo contra placa → semáforo → art. 89, II. A direita só entra se não houver sinalização.",
+          "difficulty": 2,
+          "source": "CTB, art. 89, II e III",
+          "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+          "lastVerifiedAt": "2026-10-27",
+          "reviewStatus": "verificado",
+          "origin": "treino",
+          "normVersion": "CTB compilado e normas consultadas em 2026-10-27",
+          "examImportance": 2
+        },
+        {
+          "id": "cnh-sinal-hierarquia-03",
+          "domain": "cnh-al",
+          "module": "sinalizacao",
+          "topic": "hierarquia",
+          "question": "Uma via sem agente e sem semáforo tem placa de regulamentação que fixa uma conduta. Essa placa se relaciona como com as normas gerais de circulação?",
+          "options": [
+            {
+              "text": "A indicação daquele sinal prevalece sobre as demais normas de trânsito.",
+              "explanation": "É o art. 89, III: as indicações dos sinais prevalecem sobre as demais normas. A placa regulamenta aquela via."
+            },
+            {
+              "text": "A norma geral do Código sempre vence a placa, porque a lei é superior a um sinal.",
+              "explanation": "O próprio Código, no art. 89, III, manda o sinal prevalecer sobre as demais normas de trânsito. Não é um conflito entre lei e placa fora do CTB."
+            },
+            {
+              "text": "A placa só vale se um agente a repetir.",
+              "explanation": "O agente está no topo quando está presente. A ausência dele não apaga a placa."
+            },
+            {
+              "text": "A placa de regulamentação apenas sugere, e o condutor escolhe a norma geral se for mais conveniente.",
+              "explanation": "Regulamentar não é sugerir. Conveniência do condutor não é critério do art. 89."
+            }
+          ],
+          "correctIndex": 0,
+          "recognitionKey": "Sem agente e sem semáforo, o enunciado entrega uma placa de regulamentação → o sinal prevalece sobre a norma geral → art. 89, III.",
+          "difficulty": 2,
+          "source": "CTB, art. 89, III",
+          "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+          "lastVerifiedAt": "2026-10-27",
+          "reviewStatus": "verificado",
+          "origin": "treino",
+          "normVersion": "CTB compilado e normas consultadas em 2026-10-27",
+          "examImportance": 2
+        }
+      ]
+    },
+    {
+      "id": "classificacao",
+      "name": "Classificação e uso da sinalização",
+      "module": "sinalizacao",
+      "lesson": {
+        "blocks": [
+          "O art. 87 do CTB classifica os sinais. A Portaria 923 pede leitura desses grupos, não decorar um simulado antigo.",
+          "Sinalização insuficiente ou incorreta não gera sanção ao condutor, e o órgão da via responde por essa falha."
+        ],
+        "concepts": [
+          "Sinais verticais, horizontais, dispositivos auxiliares, luminosos, sonoros e gestos do agente e do condutor (art. 87).",
+          "Faixa de pedestre é marca no pavimento: o art. 85 exige faixas pintadas ou demarcadas nos locais destinados à travessia.",
+          "Via em obra não pode ser reaberta sem sinalização vertical e horizontal adequada (art. 88)."
+        ],
+        "examples": [
+          "Placa ao lado da via: sinal vertical. Faixa pintada no chão: sinal horizontal.",
+          "Gesto do agente e gesto regulamentar de braço do condutor também são sinais, no art. 87, VI."
+        ],
+        "comparisons": [
+          {
+            "left": "Sinal vertical",
+            "right": "Sinal horizontal",
+            "difference": "Vertical é posto na via, como placa. Horizontal é marca no pavimento."
+          },
+          {
+            "left": "Sanção por desobedecer sinal regular",
+            "right": "Sinal insuficiente ou incorreto",
+            "difference": "O art. 90 afasta a sanção quando a sinalização é insuficiente ou incorreta."
+          }
+        ],
+        "relations": [
+          "O enunciado descreve onde o sinal está → classificar o grupo do art. 87 → só então decidir a conduta."
+        ],
+        "rules": [
+          "É proibido colocar publicidade sobre a sinalização ou junto dela de modo a não se relacionar com a mensagem (art. 82).",
+          "Se o enunciado disser que a sinalização estava insuficiente ou incorreta, a sanção do Código não se aplica (art. 90)."
+        ],
+        "pitfalls": [
+          "Chamar faixa pintada de placa.",
+          "Punir o condutor por um sinal que o próprio enunciado descreve como incorreto ou insuficiente."
+        ],
+        "memorize": [
+          "Seis grupos do art. 87: vertical, horizontal, auxiliar, luminoso, sonoro e gestos.",
+          "Sinalização ruim não autoriza multa por desobedecê-la."
+        ],
+        "sources": [
+          {
+            "title": "CTB, arts. 82, 85, 87, 88 e 90",
+            "url": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm"
+          },
+          {
+            "title": "Portaria SENATRAN 923/2025, bloco de sinalização",
+            "url": "https://www.gov.br/transportes/pt-br/assuntos/transito/arquivos-senatran/portarias/2025/Portaria9232025.pdf/@@display-file/file"
+          }
+        ]
+      },
+      "flashcards": [
+        {
+          "id": "cnh-card-class-1",
+          "front": "Quais são os grupos de sinais do art. 87?",
+          "back": "Verticais, horizontais, dispositivos auxiliares, luminosos, sonoros e gestos do agente e do condutor.",
+          "source": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm"
+        },
+        {
+          "id": "cnh-card-class-2",
+          "front": "Sinalização insuficiente gera multa por desobediência?",
+          "back": "Não. O art. 90 afasta a sanção quando a sinalização é insuficiente ou incorreta.",
+          "source": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm"
+        }
+      ],
+      "questions": [
+        {
+          "id": "cnh-sinal-class-01",
+          "domain": "cnh-al",
+          "module": "sinalizacao",
+          "topic": "classificacao",
+          "question": "Pelo art. 87 do CTB, os sinais de trânsito classificam-se em verticais, horizontais, dispositivos auxiliares, luminosos, sonoros e mais um grupo. Qual é?",
+          "options": [
+            {
+              "text": "Gestos do agente de trânsito e do condutor.",
+              "explanation": "O inciso VI do art. 87 inclui esses gestos entre os sinais. Não são um adorno à parte da sinalização."
+            },
+            {
+              "text": "Apenas mensagens enviadas por aplicativo do DETRAN.",
+              "explanation": "O art. 87 não cria essa categoria. Aplicativo não substitui o grupo dos gestos."
+            },
+            {
+              "text": "Somente placas de indicação turística.",
+              "explanation": "Indicação turística, quando existe como placa, cabe na sinalização vertical, não num sétimo grupo. O grupo que faltava na lista do enunciado é o dos gestos."
+            },
+            {
+              "text": "Exclusivamente as campanhas educativas de rádio.",
+              "explanation": "Campanha educativa não é um dos incisos do art. 87. Sinal sonoro de trânsito também não se confunde com publicidade."
+            }
+          ],
+          "correctIndex": 0,
+          "recognitionKey": "A lista do enunciado para no art. 87, V. O que falta é o inciso VI: gestos.",
+          "difficulty": 1,
+          "source": "CTB, art. 87",
+          "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+          "lastVerifiedAt": "2026-10-27",
+          "reviewStatus": "verificado",
+          "origin": "treino",
+          "normVersion": "CTB compilado e normas consultadas em 2026-10-27",
+          "examImportance": 2
+        },
+        {
+          "id": "cnh-sinal-class-02",
+          "domain": "cnh-al",
+          "module": "sinalizacao",
+          "topic": "classificacao",
+          "question": "O órgão destina um local à travessia de pedestres. Que sinalização o art. 85 exige nesse local?",
+          "options": [
+            {
+              "text": "Faixas pintadas ou demarcadas no leito da via.",
+              "explanation": "O art. 85 obriga sinalizar esses locais com faixas pintadas ou demarcadas. É sinal horizontal, no pavimento."
+            },
+            {
+              "text": "Apenas uma placa de indicação de destino, sem marca no pavimento.",
+              "explanation": "Placa de destino não cumpre o art. 85. O artigo fala em faixas no leito da via."
+            },
+            {
+              "text": "Somente o gesto eventual de um pedestre.",
+              "explanation": "Gesto pode ser sinal do art. 87, mas o local destinado à travessia precisa da faixa do art. 85."
+            },
+            {
+              "text": "Uma mensagem no aplicativo CNH do Brasil.",
+              "explanation": "O aplicativo não substitui a marca no pavimento exigida para aquele local."
+            }
+          ],
+          "correctIndex": 0,
+          "recognitionKey": "Enunciado diz «local destinado à travessia» → art. 85 → faixa no pavimento, não placa de destino.",
+          "difficulty": 1,
+          "source": "CTB, art. 85",
+          "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+          "lastVerifiedAt": "2026-10-27",
+          "reviewStatus": "verificado",
+          "origin": "treino",
+          "normVersion": "CTB compilado e normas consultadas em 2026-10-27",
+          "examImportance": 1
+        },
+        {
+          "id": "cnh-sinal-class-03",
+          "domain": "cnh-al",
+          "module": "sinalizacao",
+          "topic": "classificacao",
+          "question": "O condutor deixou de seguir uma indicação porque a sinalização da via estava incorreta. O que diz o art. 90 do CTB?",
+          "options": [
+            {
+              "text": "Não se aplicam as sanções do Código por inobservância a sinalização insuficiente ou incorreta.",
+              "explanation": "O caput do art. 90 é direto. A falha da sinalização não vira infração do condutor por tê-la desobedecido."
+            },
+            {
+              "text": "A sanção permanece, e o condutor discute só o valor da multa.",
+              "explanation": "O artigo afasta a sanção. Não reduz a discussão ao preço."
+            },
+            {
+              "text": "A sanção só cai se um agente confirmar no local, no momento da passagem.",
+              "explanation": "O art. 90 não condiciona o afastamento a essa confirmação presencial do agente."
+            },
+            {
+              "text": "A sinalização incorreta agrava a infração, porque o condutor deveria parar sempre.",
+              "explanation": "O Código faz o contrário: não pune a inobservância quando o sinal é insuficiente ou incorreto. Quem responde pela falha é o órgão da via, no § 1º."
+            }
+          ],
+          "correctIndex": 0,
+          "recognitionKey": "O enunciado qualifica a sinalização como incorreta → art. 90 → não há sanção por desobedecer esse sinal.",
+          "difficulty": 2,
+          "source": "CTB, art. 90",
+          "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+          "lastVerifiedAt": "2026-10-27",
+          "reviewStatus": "verificado",
+          "origin": "treino",
+          "normVersion": "CTB compilado e normas consultadas em 2026-10-27",
+          "examImportance": 2
+        },
+        {
+          "id": "cnh-sinal-class-04",
+          "domain": "cnh-al",
+          "module": "sinalizacao",
+          "topic": "classificacao",
+          "question": "Uma via pavimentada vai ser reaberta depois de uma obra. O que o art. 88 exige antes de devolvê-la ao trânsito?",
+          "options": [
+            {
+              "text": "Sinalização vertical e horizontal que garanta condições adequadas de segurança.",
+              "explanation": "O art. 88 proíbe entregar ou reabrir via pavimentada sem essa sinalização. O parágrafo único pede sinalização específica no trecho em obra."
+            },
+            {
+              "text": "Apenas a retirada dos cones, mesmo sem faixa ou placa.",
+              "explanation": "Retirar o obstáculo sem sinalizar não cumpre o artigo. A via precisa estar sinalizada vertical e horizontalmente."
+            },
+            {
+              "text": "Somente um anúncio de rádio avisando os moradores.",
+              "explanation": "Aviso não substitui a sinalização na via."
+            },
+            {
+              "text": "A pintura pode esperar o mês seguinte, desde que a pista esteja limpa.",
+              "explanation": "O artigo não autoriza esse prazo. A reabertura depende da sinalização já estar feita."
+            }
+          ],
+          "correctIndex": 0,
+          "recognitionKey": "Obra ou reabertura de via pavimentada → art. 88 → sinal vertical e horizontal antes de circular.",
+          "difficulty": 1,
+          "source": "CTB, art. 88",
+          "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+          "lastVerifiedAt": "2026-10-27",
+          "reviewStatus": "verificado",
+          "origin": "treino",
+          "normVersion": "CTB compilado e normas consultadas em 2026-10-27",
+          "examImportance": 1
+        },
+        {
+          "id": "cnh-sinal-class-05",
+          "domain": "cnh-al",
+          "module": "sinalizacao",
+          "topic": "classificacao",
+          "question": "Alguém fixa um cartaz de publicidade sobre uma placa de trânsito, com texto que não tem relação com a mensagem da placa. O que o art. 82 determina?",
+          "options": [
+            {
+              "text": "É proibido afixar publicidade, inscrição ou símbolo que não se relacione com a mensagem da sinalização.",
+              "explanation": "O art. 82 veda isso sobre a sinalização, nos suportes ou junto a eles. O cartaz do enunciado é exatamente esse caso."
+            },
+            {
+              "text": "A publicidade é livre se não tampar mais da metade da placa.",
+              "explanation": "O artigo não abre essa exceção de tamanho."
+            },
+            {
+              "text": "O cartaz vale como sinalização complementar.",
+              "explanation": "Publicidade alheia à mensagem não vira sinal. O art. 80 ainda veda sinalização que não seja a prevista."
+            },
+            {
+              "text": "Só é proibido se o cartaz for luminoso.",
+              "explanation": "O art. 82 não limita a proibição ao anúncio luminoso."
+            }
+          ],
+          "correctIndex": 0,
+          "recognitionKey": "Cartaz estranho à mensagem, pregado na placa → art. 82 → proibido. Não é sinal novo.",
+          "difficulty": 1,
+          "source": "CTB, art. 82",
+          "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+          "lastVerifiedAt": "2026-10-27",
+          "reviewStatus": "verificado",
+          "origin": "treino",
+          "normVersion": "CTB compilado e normas consultadas em 2026-10-27",
+          "examImportance": 1
+        }
+      ]
+    }
+  ]
+}

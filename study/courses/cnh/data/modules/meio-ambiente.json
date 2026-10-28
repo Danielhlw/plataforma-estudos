@@ -1,0 +1,366 @@
+{
+  "id": "meio-ambiente",
+  "title": "Meio ambiente e primeiros socorros",
+  "summary": "Quarto bloco da Portaria SENATRAN 923/2025, incluindo manutenção preventiva.",
+  "examImportance": 1,
+  "officialBlock": "Meio ambiente e primeiros socorros",
+  "topics": [
+    {
+      "id": "socorros",
+      "name": "Socorro e local do sinistro",
+      "module": "meio-ambiente",
+      "lesson": {
+        "blocks": [
+          "O art. 176 descreve omissões graves de quem se envolveu em sinistro com vítima. A Portaria 923 acrescenta o que não fazer enquanto o socorro especializado não chega.",
+          "Esta lição não ensina procedimento médico. Ensina o limite do condutor."
+        ],
+        "concepts": [
+          "Quem se envolve em sinistro com vítima deve, podendo fazê-lo, prestar ou providenciar socorro, evitar perigo no local, preservar o local para polícia e perícia, remover o veículo se a autoridade determinar e identificar-se.",
+          "A portaria destaca o que não fazer: movimentar a vítima de forma incorreta e remover o capacete.",
+          "A infração do art. 176 é gravíssima, com multa de cinco vezes, suspensão e recolhimento do documento de habilitação."
+        ],
+        "examples": [
+          "Há vítima e o condutor pode chamar o socorro. Ir embora sem providenciar esse socorro é o inciso I.",
+          "Sair arrastando a moto do meio da via, antes de qualquer autoridade, pode atrapalhar a perícia. Preservar o local é o inciso III. Remover só quando policial ou agente determinar, inciso IV."
+        ],
+        "comparisons": [
+          {
+            "left": "Prestar ou providenciar socorro",
+            "right": "Tratar a lesão por conta própria",
+            "difference": "O Código exige socorro possível. A portaria manda não fazer manobra para a qual não há capacitação, como tirar o capacete."
+          },
+          {
+            "left": "Preservar o local",
+            "right": "Remover o veículo",
+            "difference": "Preservar é a regra para a perícia. Remover entra quando a autoridade determina."
+          }
+        ],
+        "relations": [
+          "Sinistro com vítima no enunciado → art. 176. Alguém mexe no capacete ou arrasta a pessoa → limite da portaria, não um gesto de ajuda."
+        ],
+        "rules": [
+          "Poder fazê-lo faz parte do tipo. O artigo não ignora quem está fisicamente impedido.",
+          "Não transforme esta lição num manual de reanimação. Isso não está na portaria nem no art. 176."
+        ],
+        "pitfalls": [
+          "Achar que ajudar é tirar o capacete ou colocar a vítima no banco de trás.",
+          "Confundir preservar o local com abandonar a vítima sem chamar socorro."
+        ],
+        "memorize": [
+          "176: socorro, segurança do local, preservação, remoção só se determinada, identificação.",
+          "Não remover o capacete. Não movimentar a vítima de qualquer jeito."
+        ],
+        "sources": [
+          {
+            "title": "CTB, art. 176",
+            "url": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm"
+          },
+          {
+            "title": "Portaria 923/2025, o que não fazer em primeiros socorros",
+            "url": "https://www.gov.br/transportes/pt-br/assuntos/transito/arquivos-senatran/portarias/2025/Portaria9232025.pdf/@@display-file/file"
+          }
+        ]
+      },
+      "flashcards": [
+        {
+          "id": "cnh-card-socorro-1",
+          "front": "Art. 176, em uma frase",
+          "back": "No sinistro com vítima, quem pode deve socorrer ou providenciar socorro, proteger o tráfego, preservar o local, identificar-se e só remover o veículo se a autoridade determinar.",
+          "source": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm"
+        },
+        {
+          "id": "cnh-card-socorro-2",
+          "front": "O que a portaria manda não fazer",
+          "back": "Não movimentar a vítima de forma incorreta e não remover o capacete.",
+          "source": "https://www.gov.br/transportes/pt-br/assuntos/transito/arquivos-senatran/portarias/2025/Portaria9232025.pdf/@@display-file/file"
+        }
+      ],
+      "questions": [
+        {
+          "id": "cnh-meio-socorro-01",
+          "domain": "cnh-al",
+          "module": "meio-ambiente",
+          "topic": "socorros",
+          "question": "O condutor envolveu-se em sinistro com vítima, está em condições de agir e deixa o local sem prestar nem providenciar socorro. Qual é a infração do art. 176?",
+          "options": [
+            {
+              "text": "Gravíssima, com multa de cinco vezes e suspensão do direito de dirigir.",
+              "explanation": "Os incisos I a V compartilham essa penalidade. O enunciado cobre o inciso I. Há ainda recolhimento do documento como medida administrativa."
+            },
+            {
+              "text": "Média, porque ele não causou outra infração de velocidade.",
+              "explanation": "A natureza não depende de haver excesso de velocidade junto. O caput do art. 176 já classifica a omissão."
+            },
+            {
+              "text": "Não há infração se outra pessoa no local puder telefonar depois.",
+              "explanation": "O tipo exige que ele preste ou providencie, podendo fazê-lo. A possibilidade de um terceiro qualquer não está escrita como excludente."
+            },
+            {
+              "text": "Advertência por escrito, por ser a primeira parada.",
+              "explanation": "O artigo não oferece advertência. A penalidade é multa quíntupla e suspensão."
+            }
+          ],
+          "correctIndex": 0,
+          "recognitionKey": "Sinistro com vítima e o condutor que podia agir vai embora → art. 176, I → gravíssima, multa ×5 e suspensão.",
+          "difficulty": 2,
+          "source": "CTB, art. 176",
+          "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+          "lastVerifiedAt": "2026-10-27",
+          "reviewStatus": "verificado",
+          "origin": "treino",
+          "normVersion": "CTB compilado e normas consultadas em 2026-10-27",
+          "examImportance": 1
+        },
+        {
+          "id": "cnh-meio-socorro-02",
+          "domain": "cnh-al",
+          "module": "meio-ambiente",
+          "topic": "socorros",
+          "question": "Há um motociclista caído, de capacete, à espera do socorro. A Portaria SENATRAN 923/2025 aponta uma conduta que o condutor não deve ter. Qual é?",
+          "options": [
+            {
+              "text": "Remover o capacete.",
+              "explanation": "O item de primeiros socorros da portaria lista a remoção do capacete entre o que não fazer, ao lado da movimentação incorreta da vítima."
+            },
+            {
+              "text": "Sinalizar o local e acionar o atendimento.",
+              "explanation": "Isso está na atuação segura em emergência da mesma portaria. É o que fazer, não o que evitar."
+            },
+            {
+              "text": "Preservar o local para a perícia, se for possível.",
+              "explanation": "Preservar é dever do art. 176, III, e combina com a portaria. Não é a conduta proibida."
+            },
+            {
+              "text": "Manter-se em segurança antes de se aproximar da via.",
+              "explanation": "Autoproteção é o começo do bloco. A portaria não a trata como erro."
+            }
+          ],
+          "correctIndex": 0,
+          "recognitionKey": "Vítima de capacete e a pergunta pelo que não fazer → portaria → não tirar o capacete. Sinalizar e preservar são o outro lado.",
+          "difficulty": 1,
+          "source": "Portaria SENATRAN nº 923/2025, Anexo I, o que não fazer em primeiros socorros",
+          "sourceUrl": "https://www.gov.br/transportes/pt-br/assuntos/transito/arquivos-senatran/portarias/2025/Portaria9232025.pdf/@@display-file/file",
+          "lastVerifiedAt": "2026-10-27",
+          "reviewStatus": "verificado",
+          "origin": "treino",
+          "normVersion": "CTB compilado e normas consultadas em 2026-10-27",
+          "examImportance": 1
+        },
+        {
+          "id": "cnh-meio-socorro-03",
+          "domain": "cnh-al",
+          "module": "meio-ambiente",
+          "topic": "socorros",
+          "question": "Depois de um sinistro com vítima, o condutor quer tirar o veículo do meio da pista imediatamente, sem determinação de policial ou agente. O que o art. 176, IV, indica?",
+          "options": [
+            {
+              "text": "A remoção entra quando policial ou agente da autoridade de trânsito a determina.",
+              "explanation": "O inciso IV pune quem deixa de remover quando essa determinação existe. Sem a ordem, o inciso III pede preservar o local para polícia e perícia."
+            },
+            {
+              "text": "O veículo deve ser retirado sempre, antes de qualquer autoridade, para não gerar multa de estacionamento.",
+              "explanation": "Estacionamento não é o artigo do enunciado. A pressa de liberar a faixa pode comprometer a perícia."
+            },
+            {
+              "text": "A preservação do local substitui o socorro à vítima.",
+              "explanation": "São incisos diferentes. Preservar não dispensa prestar ou providenciar socorro, quando isso for possível."
+            },
+            {
+              "text": "Só a vítima pode autorizar a remoção do veículo.",
+              "explanation": "O inciso IV fala em policial ou agente, não na vítima."
+            }
+          ],
+          "correctIndex": 0,
+          "recognitionKey": "Remover o carro sem ordem, com vítima no local → não é o inciso IV. Preservar é o III. Remover é quando a autoridade manda.",
+          "difficulty": 3,
+          "source": "CTB, art. 176, III e IV",
+          "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+          "lastVerifiedAt": "2026-10-27",
+          "reviewStatus": "verificado",
+          "origin": "treino",
+          "normVersion": "CTB compilado e normas consultadas em 2026-10-27",
+          "examImportance": 1
+        }
+      ]
+    },
+    {
+      "id": "ambiente",
+      "name": "Ambiente, cidadania e manutenção",
+      "module": "meio-ambiente",
+      "lesson": {
+        "blocks": [
+          "Na Portaria 923, manutenção do veículo, emissão e condução econômica estão no mesmo bloco dos primeiros socorros. Não são um curso separado de mecânica.",
+          "Cidadania no CTB também é concreta: o art. 72 dá a qualquer pessoa o direito de pedir sinalização e fiscalização por escrito."
+        ],
+        "concepts": [
+          "Manutenção preventiva reduz risco, custo e emissão. A portaria liga conservação do veículo a esse resultado.",
+          "Direção sustentável, no mesmo anexo, inclui poluição atmosférica e sonora, condução ecológica e planejamento do trajeto.",
+          "O art. 65 torna obrigatório o cinto para condutor e passageiros em todas as vias, salvo situação regulamentada pelo CONTRAN."
+        ],
+        "examples": [
+          "Pneu gasto e luz de freio apagada não são só um prejuízo. A portaria trata a falta de manutenção como risco e como emissão.",
+          "Um morador pode pedir, por escrito, sinalização numa esquina. O órgão tem de analisar e responder, art. 73."
+        ],
+        "comparisons": [
+          {
+            "left": "Manutenção preventiva",
+            "right": "Condução econômica",
+            "difference": "Uma cuida do estado do veículo. A outra cuida do modo de usar o motor e o trajeto. As duas estão no bloco de meio ambiente da portaria."
+          },
+          {
+            "left": "Cinto obrigatório",
+            "right": "Cinto só em rodovia",
+            "difference": "O art. 65 fala em todas as vias do território nacional, com ressalva só do que o CONTRAN regulamentar."
+          }
+        ],
+        "relations": [
+          "Enunciado sobre emissão ou conservação → bloco da portaria. Enunciado sobre pedir uma faixa na rua → arts. 72 e 73. Enunciado sobre cinto em via local → art. 65."
+        ],
+        "rules": [
+          "Não crie percentual oficial de emissão. A portaria não fixa um número para a prova.",
+          "O cinto não depende de a via ser urbana ou rural."
+        ],
+        "pitfalls": [
+          "Tratar mecânica básica como matéria fora do quarto bloco oficial.",
+          "Limitar o cinto à estrada."
+        ],
+        "memorize": [
+          "Cinto em todas as vias, art. 65.",
+          "Manutenção e emissão estão no mesmo bloco da portaria.",
+          "Pedir sinalização por escrito é direito, art. 72."
+        ],
+        "sources": [
+          {
+            "title": "CTB, arts. 65, 72 e 73",
+            "url": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm"
+          },
+          {
+            "title": "Portaria 923/2025, meio ambiente e primeiros socorros",
+            "url": "https://www.gov.br/transportes/pt-br/assuntos/transito/arquivos-senatran/portarias/2025/Portaria9232025.pdf/@@display-file/file"
+          }
+        ]
+      },
+      "flashcards": [
+        {
+          "id": "cnh-card-cinto",
+          "front": "Onde o cinto é obrigatório?",
+          "back": "Em todas as vias do território nacional, salvo situação regulamentada pelo CONTRAN (art. 65).",
+          "source": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm"
+        },
+        {
+          "id": "cnh-card-cidadao",
+          "front": "Quem pode pedir sinalização?",
+          "back": "Qualquer cidadão ou entidade civil, por escrito (art. 72). O órgão responde por escrito (art. 73).",
+          "source": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm"
+        }
+      ],
+      "questions": [
+        {
+          "id": "cnh-meio-amb-01",
+          "domain": "cnh-al",
+          "module": "meio-ambiente",
+          "topic": "ambiente",
+          "question": "O art. 65 torna o cinto de segurança obrigatório para condutor e passageiros em que vias?",
+          "options": [
+            {
+              "text": "Em todas as vias do território nacional, salvo situação regulamentada pelo CONTRAN.",
+              "explanation": "O artigo não restringe a obrigação à rodovia. A exceção é a que o CONTRAN regulamentar, não o juízo do condutor."
+            },
+            {
+              "text": "Somente em rodovias federais.",
+              "explanation": "Via urbana também entra. O texto diz todas as vias."
+            },
+            {
+              "text": "Somente para o condutor. O passageiro de trás escolhe.",
+              "explanation": "O artigo nomeia condutor e passageiros."
+            },
+            {
+              "text": "Somente à noite ou sob chuva.",
+              "explanation": "Clima e hora não estão no art. 65. Essas condições aparecem na regra de luz baixa."
+            }
+          ],
+          "correctIndex": 0,
+          "recognitionKey": "Cinto no enunciado → art. 65 → todas as vias, condutor e passageiros. Não importe a regra do farol.",
+          "difficulty": 1,
+          "source": "CTB, art. 65",
+          "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+          "lastVerifiedAt": "2026-10-27",
+          "reviewStatus": "verificado",
+          "origin": "treino",
+          "normVersion": "CTB compilado e normas consultadas em 2026-10-27",
+          "examImportance": 1
+        },
+        {
+          "id": "cnh-meio-amb-02",
+          "domain": "cnh-al",
+          "module": "meio-ambiente",
+          "topic": "ambiente",
+          "question": "Pelo Anexo I da Portaria 923/2025, a manutenção preventiva do veículo aparece em que parte do curso teórico de primeira habilitação?",
+          "options": [
+            {
+              "text": "No bloco de meio ambiente e primeiros socorros, ligada a risco, custo e emissão.",
+              "explanation": "O item 6 desse bloco fala em conservação, prevenção de riscos e redução de custos e emissões. Não há, na portaria, um quinto bloco chamado mecânica."
+            },
+            {
+              "text": "Num bloco autônomo de mecânica, com carga horária própria para a primeira habilitação.",
+              "explanation": "A portaria não cria esse bloco nem carga horária mínima para o curso teórico de primeira habilitação. A carga horária mínima desse curso é inexistente."
+            },
+            {
+              "text": "Apenas no curso especializado de produtos perigosos.",
+              "explanation": "Produtos perigosos têm conteúdo próprio. A manutenção preventiva da primeira habilitação está no bloco citado."
+            },
+            {
+              "text": "Fora do exame, porque o DETRAN/AL só avalia legislação e direção.",
+              "explanation": "A página do DETRAN/AL resume temas, mas o programa do curso é o anexo da portaria. Manutenção está nele."
+            }
+          ],
+          "correctIndex": 0,
+          "recognitionKey": "Pergunta sobre onde a manutenção entra no curso novo → quarto bloco da Portaria 923, não a grade antiga de cinco matérias.",
+          "difficulty": 2,
+          "source": "Portaria SENATRAN nº 923/2025, Anexo I, meio ambiente e primeiros socorros, item 6",
+          "sourceUrl": "https://www.gov.br/transportes/pt-br/assuntos/transito/arquivos-senatran/portarias/2025/Portaria9232025.pdf/@@display-file/file",
+          "lastVerifiedAt": "2026-10-27",
+          "reviewStatus": "verificado",
+          "origin": "treino",
+          "normVersion": "CTB compilado e normas consultadas em 2026-10-27",
+          "examImportance": 1
+        },
+        {
+          "id": "cnh-meio-amb-03",
+          "domain": "cnh-al",
+          "module": "meio-ambiente",
+          "topic": "ambiente",
+          "question": "Um morador quer que o órgão de trânsito avalie uma faixa de pedestres numa esquina. O que o art. 72 garante?",
+          "options": [
+            {
+              "text": "O direito de solicitar isso por escrito, inclusive sinalização e fiscalização.",
+              "explanation": "O artigo alcança qualquer cidadão ou entidade civil. O art. 73 obriga o órgão a analisar e responder por escrito."
+            },
+            {
+              "text": "O direito de instalar a faixa por conta própria se o órgão demorar.",
+              "explanation": "Pedir não é autorizar a obra. Sinalização da via é do órgão com circunscrição, como nos arts. 80 e 90."
+            },
+            {
+              "text": "O pedido só pode ser feito por condutor já habilitado.",
+              "explanation": "O artigo diz todo cidadão ou entidade civil. Habilitação não é requisito."
+            },
+            {
+              "text": "O pedido substitui o semáforo enquanto não houver resposta.",
+              "explanation": "Não há essa substituição. A hierarquia do art. 89 continua valendo para o sinal que existir."
+            }
+          ],
+          "correctIndex": 0,
+          "recognitionKey": "Cidadão pede faixa → art. 72 → pedido escrito. Não é licença para pintar a rua.",
+          "difficulty": 1,
+          "source": "CTB, arts. 72 e 73",
+          "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+          "lastVerifiedAt": "2026-10-27",
+          "reviewStatus": "verificado",
+          "origin": "treino",
+          "normVersion": "CTB compilado e normas consultadas em 2026-10-27",
+          "examImportance": 1
+        }
+      ]
+    }
+  ]
+}

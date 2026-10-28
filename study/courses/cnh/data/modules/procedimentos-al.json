@@ -1,0 +1,155 @@
+{
+  "id": "procedimentos-al",
+  "title": "Exame em Alagoas",
+  "summary": "Regras nacionais do exame e o que a página do DETRAN/AL informa sobre o procedimento. Este módulo não entra na distribuição do simulado.",
+  "examImportance": 0,
+  "officialBlock": "Procedimento estadual, fora dos quatro blocos de conteúdo",
+  "topics": [
+    {
+      "id": "formato-exame",
+      "name": "Formato do exame teórico",
+      "module": "procedimentos-al",
+      "lesson": {
+        "blocks": [
+          "A Resolução CONTRAN 1.020/2025, em vigor desde a publicação em 09/12/2025, fixa o formato nacional do exame.",
+          "Em Alagoas, a página da CNH do Brasil no DETRAN, lida em 27/10/2026, diz que o curso teórico é gratuito no aplicativo e que a prova é em local definido pelo DETRAN, com um reteste gratuito.",
+          "Esta plataforma prepara. Não marca o exame, não certifica e não garante aprovação."
+        ],
+        "concepts": [
+          "30 questões, quatro alternativas, uma correta.",
+          "Aprovação com 20 acertos. A regra antiga de 21 não está na resolução vigente.",
+          "Duração mínima de uma hora, dobrada para dislexia, TDAH ou TEA.",
+          "A distribuição das 30 questões por tema não foi publicada. O simulado desta plataforma avisa que a mistura dele é estimativa pedagógica."
+        ],
+        "examples": [
+          "19 acertos não aprovam. 20 aprovam.",
+          "A segunda tentativa pode ser feita sem taxa adicional, art. 34, § 1º. A página do DETRAN/AL confirma um reteste gratuito na prova teórica e na prática."
+        ],
+        "comparisons": [
+          {
+            "left": "Curso teórico",
+            "right": "Prova teórica",
+            "difference": "O curso pode ser feito no aplicativo. A página do DETRAN/AL descreve a prova em local definido pelo órgão, com agendamento no portal."
+          },
+          {
+            "left": "20 acertos",
+            "right": "21 acertos",
+            "difference": "21 era referência de norma anterior. A Resolução 1.020, art. 34, exige vinte."
+          }
+        ],
+        "relations": [
+          "Número de questões, nota ou tempo → resolução. Onde fazer e como agendar em Alagoas → página do DETRAN/AL."
+        ],
+        "rules": [
+          "Não use simulados da internet como fonte do número de questões.",
+          "Valor de taxa muda. A página consultada traz números, mas as questões deste curso não cobram decoreba de preço."
+        ],
+        "pitfalls": [
+          "Estudar pela regra revogada de 21 acertos.",
+          "Achar que o curso gratuito no aplicativo dispensa o exame."
+        ],
+        "memorize": [
+          "30 questões, 20 acertos, mínimo de 1 hora.",
+          "Reteste gratuito na segunda tentativa.",
+          "Curso no aplicativo não é o exame."
+        ],
+        "sources": [
+          {
+            "title": "Resolução CONTRAN nº 1.020/2025, arts. 31, 33 e 34",
+            "url": "https://www.in.gov.br/web/dou/-/resolucao-contran-n-1.020-de-1-de-dezembro-de-2025-674131330"
+          },
+          {
+            "title": "DETRAN/AL, CNH do Brasil",
+            "url": "https://www.detran.al.gov.br/conteudo/cnh-do-brasil"
+          }
+        ]
+      },
+      "flashcards": [
+        {
+          "id": "cnh-card-exame-1",
+          "front": "Formato nacional vigente",
+          "back": "30 questões, 4 alternativas, 20 acertos, duração mínima de 1 hora (Resolução 1.020/2025).",
+          "source": "https://www.in.gov.br/web/dou/-/resolucao-contran-n-1.020-de-1-de-dezembro-de-2025-674131330"
+        },
+        {
+          "id": "cnh-card-exame-2",
+          "front": "O que a página do DETRAN/AL confirma",
+          "back": "Curso teórico gratuito no aplicativo, prova em local definido pelo DETRAN e um reteste gratuito.",
+          "source": "https://www.detran.al.gov.br/conteudo/cnh-do-brasil"
+        }
+      ],
+      "questions": [
+        {
+          "id": "cnh-proc-exame-01",
+          "domain": "cnh-al",
+          "module": "procedimentos-al",
+          "topic": "formato-exame",
+          "question": "Pela Resolução CONTRAN nº 1.020/2025, o que é exigido para aprovação no exame teórico?",
+          "options": [
+            {
+              "text": "20 acertos numa prova de 30 questões, com quatro alternativas e uma correta.",
+              "explanation": "O art. 31 fixa quatro alternativas e uma correta. O art. 33, § 1º, fixa trinta questões. O art. 34 fixa vinte acertos."
+            },
+            {
+              "text": "21 acertos em 30 questões.",
+              "explanation": "Vinte e um não é o art. 34 da resolução vigente. Era referência de regra anterior, revogada no conjunto da Resolução 789/2020 pelo art. 140."
+            },
+            {
+              "text": "70% de uma prova de 40 questões.",
+              "explanation": "Nem o tamanho nem a conta batem com os artigos 33 e 34."
+            },
+            {
+              "text": "15 acertos, desde que o curso no aplicativo esteja completo.",
+              "explanation": "Concluir o curso não reduz a nota. O art. 23 da mesma resolução diz que o certificado do curso não prova domínio."
+            }
+          ],
+          "correctIndex": 0,
+          "recognitionKey": "Formato do exame → arts. 31, 33 e 34 da Resolução 1.020. Não voltar para 21 acertos.",
+          "difficulty": 1,
+          "source": "Resolução CONTRAN nº 1.020/2025, arts. 31, 33 e 34",
+          "sourceUrl": "https://www.in.gov.br/web/dou/-/resolucao-contran-n-1.020-de-1-de-dezembro-de-2025-674131330",
+          "lastVerifiedAt": "2026-10-27",
+          "reviewStatus": "verificado",
+          "origin": "treino",
+          "normVersion": "CTB compilado e normas consultadas em 2026-10-27",
+          "examImportance": 0
+        },
+        {
+          "id": "cnh-proc-exame-02",
+          "domain": "cnh-al",
+          "module": "procedimentos-al",
+          "topic": "formato-exame",
+          "question": "Segundo a página da CNH do Brasil no DETRAN/AL, consultada em 27/10/2026, o que acontece depois da reprovação na prova teórica?",
+          "options": [
+            {
+              "text": "Há um reteste gratuito dessa prova.",
+              "explanation": "A página informa um reteste gratuito para a prova teórica e outro para a prática. O art. 34, § 1º, da resolução também permite a segunda tentativa sem taxa adicional."
+            },
+            {
+              "text": "O candidato reinicia o curso teórico pago no CFC, porque o gratuito não serve para reteste.",
+              "explanation": "A mesma página diz que o curso teórico é gratuito no aplicativo. Não condiciona o reteste a um curso pago."
+            },
+            {
+              "text": "A reprovação encerra o processo de habilitação no estado.",
+              "explanation": "A resolução permite novas avaliações, sem limite de tentativas. A gratuidade citada é a da segunda."
+            },
+            {
+              "text": "A prova seguinte passa a ter 21 acertos como nota mínima.",
+              "explanation": "A nota não muda por causa da reprovação. Continua o art. 34."
+            }
+          ],
+          "correctIndex": 0,
+          "recognitionKey": "Reprovação em Alagoas, na página oficial → um reteste gratuito. A nota continua sendo 20.",
+          "difficulty": 1,
+          "source": "DETRAN/AL, página CNH do Brasil, consultada em 2026-10-27; Resolução CONTRAN 1.020/2025, art. 34, § 1º",
+          "sourceUrl": "https://www.detran.al.gov.br/conteudo/cnh-do-brasil",
+          "lastVerifiedAt": "2026-10-27",
+          "reviewStatus": "verificado",
+          "origin": "treino",
+          "normVersion": "CTB compilado e normas consultadas em 2026-10-27",
+          "examImportance": 0
+        }
+      ]
+    }
+  ]
+}
